@@ -15,9 +15,9 @@ exclude:
 
 
 script: |
-  alert("it");
-  alert("works!");
+  console.log("Laden IMGeo objectenhandboek...")
 
 scss: |
   .wy-nav-content-wrap{background:#fcfcfc}
   .wy-nav-content-wrap .wy-nav-content{max-width:none}
+  .toctree{background-color:white}
