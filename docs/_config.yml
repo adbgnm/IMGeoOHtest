@@ -12,3 +12,12 @@ exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
+
+
+script: |
+  alert("it");
+  alert("works!");
+
+scss: |
+  .wy-nav-content-wrap{background:#fcfcfc}
+  .wy-nav-content-wrap .wy-nav-content{max-width:none}
