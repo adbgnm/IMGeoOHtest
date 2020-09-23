@@ -1,6 +1,6 @@
-title: RunDocs
-lang: en
-description: Extends the continuous integration documentation capabilities of GitHub pages for everyone!
+title: IMGeo objectenhandboek -test
+lang: nl
+description: Praktijkhandleiding voor toepassing van de BGT|IMGeo standaarden bij de objectafbakening
 
 remote_theme: rundocs/jekyll-rtd-theme
 
