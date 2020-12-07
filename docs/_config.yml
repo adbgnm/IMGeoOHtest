@@ -1,10 +1,8 @@
-title: IMGeo objectenhandboek -test
+title: IMGeo objectenhandboek bèta
 lang: nl
 description: Praktijkhandleiding voor toepassing van de BGT|IMGeo standaarden bij de objectafbakening
-
  
 remote_theme: rundocs/jekyll-rtd-theme
-remote_theme: rundocs/jekyll-theme-amp
 
 breadcrumbs: true
 breadcrumb_home_label : "Start"
