@@ -25,4 +25,3 @@ script: |
 scss: |
   .wy-nav-content-wrap{background:#fcfcfc}
   .wy-nav-content-wrap .wy-nav-content{max-width:none}
-  /* .toctree, .toc {background-color:white} */
