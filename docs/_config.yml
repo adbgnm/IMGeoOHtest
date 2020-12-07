@@ -2,6 +2,9 @@ title: IMGeo objectenhandboek -test
 lang: nl
 description: Praktijkhandleiding voor toepassing van de BGT|IMGeo standaarden bij de objectafbakening
 
+plugins:
+  - jekyll-archives
+  
 remote_theme: rundocs/jekyll-rtd-theme
 remote_theme: rundocs/jekyll-theme-amp
 
