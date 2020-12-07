@@ -7,6 +7,8 @@ remote_theme: rundocs/jekyll-rtd-theme
 remote_theme: rundocs/jekyll-theme-amp
 
 breadcrumbs: true
+breadcrumb_home_label : "Start"
+breadcrumb_separator  : ">"
 
 plugins:
   - jekyll-archives
