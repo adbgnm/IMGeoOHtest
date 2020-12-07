@@ -4,13 +4,7 @@ description: Praktijkhandleiding voor toepassing van de BGT|IMGeo standaarden bi
  
 remote_theme: rundocs/jekyll-rtd-theme
 
-breadcrumbs: true
-breadcrumb_home_label : "Start"
-breadcrumb_separator  : ">"
-
-plugins:
-  - jekyll-archives
-  
+ 
 readme_index:
   with_frontmatter: true
 
