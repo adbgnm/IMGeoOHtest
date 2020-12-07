@@ -3,6 +3,7 @@ lang: nl
 description: Praktijkhandleiding voor toepassing van de BGT|IMGeo standaarden bij de objectafbakening
 
 remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: rundocs/jekyll-theme-amp
 
 readme_index:
   with_frontmatter: true
