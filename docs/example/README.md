@@ -4,4 +4,4 @@ sort: 1
 
 # VOORBEELDEN
 
-{% include list.liquid %}
+# {% include list.liquid %}
