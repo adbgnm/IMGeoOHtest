@@ -3,11 +3,8 @@ Bak
 
 HTML niet gevonden:: example/html/bak.html
 
-TypeBak
--------
-
-TypeBakPlus
------------
+type
+----
 
 ### afval apart plaats
 
