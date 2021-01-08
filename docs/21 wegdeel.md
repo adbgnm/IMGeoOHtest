@@ -1,10 +1,129 @@
 Wegdeel
 =======
 
-HTML niet gevonden:: example/html/wegdeel.html
+Kleinste functioneel onafhankelijk stukje van een NEN 3610 Weg met
+gelijkblijvende, homogene eigenschappen en relaties en primair bedoeld voor
+gebruik door weg-, spoor- en vliegverkeer te land.
 
-FunctieWeg
-----------
+inwinregels 
+------------
+
+### BGT
+
+Bron: [BGT
+gegevenscatalogus](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-wegdeel)
+
+>   **Indeling**
+
+>   Om de wegdelen in te delen wordt een ordeningsprincipe gehanteerd. De
+>   verzameling wegdelen wordt ingedeeld naar de functie van het wegdeel en naar
+>   het fysieke voorkomen.
+
+>   Het attribuut fysiek voorkomen geldt voor het gehele wegdeel. Een overgang
+>   van fysiek voorkomen is dus altijd ook een grens tussen twee wegdelen. Het
+>   gaat hierbij over het voorkomen waarmee het wegdeel overwegend is bedekt.
+>   Voor minimale stukjes, 5m2, met andere verharding hoeft geen apart wegdeel
+>   te worden gevormd.
+
+>   **Regels voor opname**
+
+>   Bestrate gedeelten in voor- en achtertuinen van panden worden beschouwd als
+>   onderdeel van het erf (onbegroeid terreindeel) en worden niet nader
+>   ingewonnen.
+
+>   Brandgangen, met een openbaar karakter en waarvan de breedte \>0,90 m
+>   bedraagt, worden opgenomen tot de bebouwingslijn van gebouwen als wegdeel
+>   type voetpad. Brandgangen met een ontsluitingsfunctie van kennelijk openbaar
+>   terrein worden altijd opgenomen.
+
+![](media/8eeffe79b8eac59b938801ebe9da837b.jpg)
+
+>   Voorbeeld van weg- en terreindelen
+
+>   De kruinlijn moet bij het wegdeel worden opgenomen indien de helling een
+>   verhouding heeft van verticaal:horizontaal van 1:4 of steiler en het
+>   hoogteverschil \> 1 m bedraagt.
+
+>   Eén van de zijden van het wegdeel valt altijd samen met de kruinlijn, zijnde
+>   bovenkant talud. De coördinaten van de kruinlijn zijn identiek met die van
+>   de objectbegrenzing ter plaatse. Het gedeelte van een object dat op het
+>   talud ligt, is altijd een apart begrensd vlak ten opzichte van het deel van
+>   het object dat niet op het talud ligt.
+
+>   Als er meer dan een objecttype op een talud ligt, bevat alleen het hoogst
+>   gelegen object een kruinlijngeometrie. De coördinaten van de kruinlijn zijn
+>   identiek aan de coördinaten van de objectbegrenzing die samenvalt met de
+>   kruinlijn.
+
+>   **Aandachtspunten**
+
+>   Het begin van een wegdeel van een auto(snel)weg wordt aangegeven middels een
+>   bord G01 (autosnelweg) en G03 (autoweg). Dit kan zijn ter plaatse van een
+>   kruispunt. In de praktijk staat zo'n bord nooit precies op het kruispunt,
+>   maar enkele meter verder, de praktische werking van het bord geldt vanaf dat
+>   kruispunt.
+
+>   Een autosnelweg kan ook beginnen zonder dat er kruispunt aanwezig is.
+
+>   Het beëindigen van een wegdeel van een auto(snel)weg kan gebeuren door een
+>   bord G2 (einde autosnelweg) of G04 (einde autoweg). Een autoweg kan ook
+>   eindigen bij een kruispunt. Het bord G03 moet namelijk ná elk kruispunt
+>   worden herhaald.
+
+>   Een autosnelweg kan ook eindigen zonder aanwezig kruispunt. Dan wordt het
+>   bord G2 gebruikt en gaat de weg over in een regionale weg.
+
+>   Bij een autoweg is er sprake van een, meestal fysieke, scheiding tussen
+>   langzaam verkeer en snelverkeer.
+
+>   Samenvattend geldt dat voor het begin en einde van een wegdeel van een
+>   auto(snel)weg de plaats van het bord bepalend is, op basis van de betekenis
+>   in het RVV 1990.
+
+>   Molgoten langs wegdelen maken deel uit van dat wegdeel, ook als zij uit een
+>   andere ver­harding bestaan. De buitenzijde van de molgoot vormt de
+>   begrenzing van het wegdeel met vrijwel gelijke hoogte.
+
+>   Een afsluitende band hoort bij het wegdeel, verkeerseiland of berm dat
+>   gelijk ligt met de bovenzijde van de band.
+
+>   Fietspaden vormen BGT inhoud indien aangeduid met een blauw bord met daarop
+>   een wit rijwiel (bord G11 of G12a), of een blauw of zwart bord met daarop de
+>   tekst “FIETSPAD” of “RIJWIELPAD” (bord G13). In IMGeo mogen stroken
+>   oranjekleurige verharding voorzien van een wit rijwielsymbool worden
+>   opgenomen als fietspad.
+
+>   Aaneengesloten parkeervakken die zijn bedoeld voor één voertuig, worden
+>   ingewonnen als één aaneengesloten wegdeel waarbij functieWeg de waarde
+>   ‘parkeervlak’ heeft.
+
+>   Uitsparingen in wegdelen, meestal van het type voetpad, voor stedelijk groen
+>   worden niet afzonderlijk ingwonnen indien \<5 m2. Het wegdeel wordt daarbij
+>   geacht door te lopen.
+
+>   Belijning, kleur en symboliek zijn geen begrenzingen van wegdelen, zoals
+>   rijbanen, OV-banen en parkeervakken. Een uitzondering geldt voor de
+>   oranjekleurige fietsstroken voorzien van een wit rijwielsymbool. Deze worden
+>   ingewonnen als fietspad.
+
+>   Inritten (toegangswegen, oprijlanen) naar erven en terreinen vormen BGT
+>   inhoud wanneer ze langer zijn dan 25 m. Kortere inritten kunnen worden
+>   opgenomen in IMGeo.
+
+### IMGeo
+
+Bron: [IMGeo
+gegevenscatalogus](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#wegdeel-en-weginrichting)
+
+>   Ten behoeve van beheer kan een BGT wegdeel uit meerdere beheereenheden
+>   bestaan. Men mag deze zo afbakenen als voor beheer gewenst is. Voor levering
+>   conform BGT of IMGeo moeten voor de attributen de BGT respectievelijk
+>   IMGeo-domeinwaarden zijn ingevuld.
+
+functie
+-------
+
+Specificatie van het hoofdgebruiksdoel van het wegdeel.
 
 ### OV-baan
 
@@ -17,7 +136,7 @@ afgescheiden is van de andere wegdelen niet uitsluitend door markering.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/90fb870e470666cc51dcad72f7b67d12.jpg)
 
@@ -63,7 +182,7 @@ type trein of sneltram.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/64546c37fabdf1decd2299edd4002ea7.jpg)
 
@@ -89,7 +208,7 @@ Gebaand gedeelte voor het verkeer over rails.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/64546c37fabdf1decd2299edd4002ea7.jpg)
 
@@ -115,7 +234,7 @@ Wegdeel uitsluitend bedoeld voor vliegverkeer.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/3f64873f7ce69c380fbdab29414fe2bd.jpg)
 
@@ -141,7 +260,7 @@ betreffende verkeersbord.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/6769bc293decb4d87b27a8601db6c738.jpg)
 
@@ -169,6 +288,8 @@ ongelijkvloersheid is gerealiseerd.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
 ![verbindingsweg](media/e1c5320cab7cf3fc60fffa425a57418f.jpg)
 
 A, B, C en D zijn in de BGT wegdelen autosnelweg, autoweg of regionale weg, in
@@ -186,6 +307,8 @@ rijbanen voor hulpdiensten vanaf andere rijbanen of van een parallelweg.
 **Verplicht?**
 
 Ja, verplichte inhoud BGT.
+
+**Voorbeeld**
 
 Een afbeelding van een calamiteitendoorsteek kunt u sturen
 aan: [imgeo\@geonovum.nl](mailto:info@geonovum.nl)
@@ -206,7 +329,7 @@ daartoe aangeduid met het betreffende verkeersbord.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/efbaf2dacc88c2ead7f150b5a3ad3961.jpg)
 
@@ -230,6 +353,8 @@ ongelijkvloersheid is gerealiseerd.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
 Situatie: zie 3.1.1
 
 #### calamiteitendoorsteek
@@ -244,6 +369,8 @@ rijbanen voor hulpdiensten vanaf andere rijbanen of van een parallelweg.
 **Verplicht?**
 
 Ja, verplichte inhoud BGT.
+
+**Voorbeeld**
 
 Een afbeelding van een calamiteitendoorsteek kunt u sturen
 aan: [imgeo\@geonovum.nl](mailto:info@geonovum.nl)
@@ -264,7 +391,7 @@ oorden of tussen wijken binnen een dorp of stad.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/30e4f77507e85b97d29d0393244cc31c.jpg)
 
@@ -288,6 +415,8 @@ ongelijkvloersheid is gerealiseerd.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
 Situatie zie 3.1.1.
 
 #### verkeersdrempel
@@ -301,6 +430,8 @@ een lage snelheid te laten rijden.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
 Situatie zie 3.1.8.
 
 ### rijbaan lokale weg
@@ -313,7 +444,7 @@ Wegdeel dat onderdeel is van een weg van lokaal belang.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/dcc03f3d30430dbcf6994f9b36e9e72d.jpg)
 
@@ -361,6 +492,8 @@ een lage snelheid te laten rijden.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
 ![](media/ed949ee9eff740b76f22a1ae222bb7bc.jpg)
 
 C:
@@ -382,7 +515,7 @@ dat afgescheiden is van de andere wegdelen niet uitsluitend door markering.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/68fecd9702d4d259f7d8323a0e86dbfa.jpg)
 
@@ -444,7 +577,7 @@ Wegdeel waar voetgangers gebruik van moeten maken.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/ba355d38d5d4a5513252b69a4da8ebd9.jpg)
 
@@ -515,7 +648,7 @@ van treden, waarop men een hoger of lager gelegen plaats kan bereiken.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/9849e4cb1f0f4fff7df334be867ff6a3.jpg)
 
@@ -540,7 +673,7 @@ Een wegdeel primair aangelegd voor het gebruik door ruiters.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/2633daafab8db3a54260a6fbffe10be4.jpg)
 
@@ -568,7 +701,7 @@ Wegdeel bestemd voor het parkeren van motorvoertuigen.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/056b3a5374fbac73c1efbcf3614ae04b.jpg)
 
@@ -616,7 +749,7 @@ nadrukkelijk openbaar karakter heeft.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/0dcbf09727df46f75945abcdd927608a.jpg)
 
@@ -643,7 +776,7 @@ erven en terreinen.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/dcc03f3d30430dbcf6994f9b36e9e72d.jpg)
 
@@ -670,7 +803,7 @@ prioriteit heeft boven de verkeersfunctie.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/f7d332a7166e73d241fa5be65de56ce0.jpg)
 
@@ -701,7 +834,7 @@ definitieve destructie, zoals bijvoorbeeld bitumen, cement of kunststof.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![dsc_2340](media/4ed1c8f35b03db11eaed135700b8543d.jpg)
 
@@ -730,6 +863,8 @@ materialen.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
 ![](media/e04d28552ab4c6e567f9d5d2084d367e.jpg)
 
 | **Wegdeel**            | **Attribuutwaarde**               | **Opmerkingen** |
@@ -747,6 +882,8 @@ Gesloten verharding bestaande uit gewapend of ongewapend beton.
 **Verplicht?**
 
 Ja, verplichte inhoud BGT.
+
+**Voorbeeld**
 
 ![gesloten verharding cementbeton](media/9ff214a528306aa24549efcc626c7959.jpg)
 
@@ -767,7 +904,7 @@ afmetingen, zoals bijvoorbeeld klinkers en tegels.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![dsc_2340](media/4ed1c8f35b03db11eaed135700b8543d.jpg)
 
@@ -810,6 +947,8 @@ vervanging van de gebakken klinkers is ontwikkeld.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
 ![open verharding betonstraatstenen](media/8c38e082b495b23bad04d46dbe2685e9.jpg)
 
 ![](media/0e4042efa16ef52c8d2572e6c545ee34.jpg)
@@ -833,6 +972,8 @@ geproduceerd uit grondstof van eigen bodem – de beddingen van onze rivieren.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
 ![straat met gebakken klinkers](media/866500237520162dcc1b52559e0318eb.jpg)
 
 | **Wegdeel**            | **Attribuutwaarde**                | **Opmerkingen** |
@@ -851,6 +992,8 @@ voor trottoirbestrating.
 **Verplicht?**
 
 Ja, verplichte inhoud BGT.
+
+**Voorbeeld**
 
 ![](media/0a3b2bf40ff1a1abd59cea3435935d18.jpg)
 
@@ -873,6 +1016,8 @@ in een sierverband, die vooral wordt toegepast uit esthetische overwegingen.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
 ![](media/0d27f22d8f72bccb62717c4c902bbc22.jpg)
 
 | **Wegdeel**            | **Attribuutwaarde**             | **Opmerkingen** |
@@ -891,6 +1036,8 @@ stelconplaten.
 **Verplicht?**
 
 Ja, verplichte inhoud BGT.
+
+**Voorbeeld**
 
 Een afbeelding van beton element kunt u sturen
 aan: [imgeo\@geonovum.nl](mailto:info@geonovum.nl)
@@ -912,7 +1059,7 @@ onsamenhangend materiaal.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/f569e3ee0f20ac079ff7b5ae99c29aac.jpg)
 
@@ -936,6 +1083,8 @@ met tussenruimten aangebracht.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
 ![](media/4859c4db2160f93edfda49210775c7d2.jpg)
 
 | **Wegdeel**            | **Attribuutwaarde**      | **Opmerkingen** |
@@ -953,6 +1102,8 @@ Ongebonden verharding bestaande uit schelpenmateriaal.
 **Verplicht?**
 
 Ja, verplichte inhoud BGT.
+
+**Voorbeeld**
 
 ![schelpenpad](media/6e255aa6ea6aee33b0c98fefb4856ae7.jpg)
 
@@ -974,6 +1125,8 @@ andere objecten.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
 ![puinweg](media/884d71f879705752b856ca5cf88c13ee.jpg)
 
 | **Wegdeel**            | **Attribuutwaarde** | **Opmerkingen** |
@@ -992,6 +1145,8 @@ doorsnede variëren van 1 tot 5 cm.
 **Verplicht?**
 
 Ja, verplichte inhoud BGT.
+
+**Voorbeeld**
 
 ![grindpad](media/df463d83012a2a1d46bada3755ab33c3.jpg)
 
@@ -1012,6 +1167,8 @@ en ook wel op atletiekbanen.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
 ![gravelpad](media/6d8e1fd1a046f5b3c4a66f64903468ec.jpg)
 
 | **Wegdeel**            | **Attribuutwaarde**  | **Opmerkingen** |
@@ -1030,7 +1187,7 @@ Wegdelen waar geen verharding of aaneengesloten vegetatie aanwezig is.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/744d5450c17148bc4d9dfe0875982bc0.jpg)
 
@@ -1055,6 +1212,8 @@ Onverhard met als deklaag boomschors.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
 ![boomschors](media/a07cdfe7bf99d37d8cfca7930c20329f.jpg)
 
 | **Wegdeel**            | **Attribuutwaarde**   | **Opmerkingen** |
@@ -1072,6 +1231,8 @@ Onverhard met als deklaag zand.
 **Verplicht?**
 
 Ja, verplichte inhoud BGT.
+
+**Voorbeeld**
 
 ![](media/8d7b4b5d02705c747bc9fd60b259672b.jpg)
 
