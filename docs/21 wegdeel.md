@@ -122,6 +122,44 @@ inwinregels
 >   conform BGT of IMGeo moeten voor de attributen de BGT respectievelijk
 >   IMGeo-domeinwaarden zijn ingevuld.
 
+>   In IMGeo kunnen inrichtingselementen, die op wegdelen voorkomen, worden
+>   opgenomen met het objecttype weginrichtingselement.
+
+-   Lijnafwatering wordt opgenomen als lijnobject. Geleideconstructie kan worden
+    opgenomen als punt-, lijn- of vlakobject. Wegmarkeringen worden opgenomen
+    als lijnobject als het gaat om belijning, en als puntobject als het gaat om
+    symbolen op het wegdek.
+
+-   Wildrooster en rooster worden opgenomen als punt-, lijn- of vlakobject.
+
+-   Grasklinkers die onderdeel zijn van een wegdeel kunnen worden opgenomen met
+    fysiek voorkomen ‘half verhard: grasklinkers’.
+
+-   In de BGT maken molgoten deel uit van een wegdeel. In IMGeo kunnen molgoten
+    worden opgenomen als Weginrichtingselement type molgoot (lijngeometrie).
+
+-   In de BGT maakt een afsluitende band deel uit van een wegdeel,
+    verkeerseiland of berm. In IMGeo kan een band worden opgenomen als
+    Weginrichtingselement type geleideconstructie.
+
+-   In IMGeo kunnen stroken oranjekleurige verharding voorzien van een wit
+    rijwielsymbool worden opgenomen als fietspad. Fietssuggestiestroken (zonder
+    wit rijwielsymbool) vormen geen inhoud van IMGeo.
+
+-   In de BGT worden aaneengesloten parkeervakken ingewonnen als één wegdeel. In
+    IMGeo kunnen deze eventueel nader worden ingedeeld. Ook kan de belijning als
+    weginrichtingselement worden opgenomen.
+
+-   In de BGT worden uitsparingen in wegdelen voor stedelijk groen niet apart
+    ingewonnen indien \< 5 m2. In IMGeo kunnen deze worden opgenomen als
+    ‘begroeid terreindeel groenvoorziening’.
+
+-   Wegmarkeringen zoals symbolen, belijning en kleur zijn geen BGT inhoud maar
+    kunnen in IMGEO worden opgenomen als weginrichtingselement.
+
+-   Inritten (toegangswegen, oprijlanen) naar erven en terreinen korter dan 25 m
+    kunnen worden opgenomen als IMGeo inhoud.
+
 functie
 -------
 
@@ -293,6 +331,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![verbindingsweg](media/e1c5320cab7cf3fc60fffa425a57418f.jpg)
+
+verbindingsweg
 
 verbindingsweg
 
@@ -614,6 +654,8 @@ C is voor IMGeo: Vegetatieobject: Haag.
 
 2325b
 
+2325b
+
 B:
 
 | **Wegdeel**            | **Attribuutwaarde** | **Opmerkingen** |
@@ -627,6 +669,8 @@ A: Onbegroeid terreindeel: Open verharding.
 C en D: Scheiding, Muur.
 
 ![dsc_2330](media/b8edd1f50f5bd873ede0b97d10c109e3.jpg)
+
+dsc_2330
 
 dsc_2330
 
@@ -864,6 +908,8 @@ dsc_2340
 
 dsc_2340
 
+dsc_2340
+
 B en D (afzonderlijke objecten):
 
 | *Wegdeel*              | *Attribuutwaarde*   | *Opmerkingen* |
@@ -919,6 +965,8 @@ gesloten verharding cementbeton
 
 gesloten verharding cementbeton
 
+gesloten verharding cementbeton
+
 | **Wegdeel**            | **Attribuutwaarde**              | **Opmerkingen** |
 |------------------------|----------------------------------|-----------------|
 | functie                |                                  |                 |
@@ -946,6 +994,8 @@ dsc_2340
 
 dsc_2340
 
+dsc_2340
+
 C:
 
 | **Wegdeel**            | **Attribuutwaarde**  | **Opmerkingen** |
@@ -962,6 +1012,8 @@ Goten vormen geen BGT inhoud en worden gerekend tot het wegdeel waar ze in
 liggen.
 
 ![DSCN2148](media/8d7ce2e54975c25f6373780d8fb6bcbd.jpg)
+
+DSCN2148
 
 DSCN2148
 
@@ -1001,6 +1053,8 @@ open verharding betonstraatstenen
 
 open verharding betonstraatstenen
 
+open verharding betonstraatstenen
+
 ![](media/0e4042efa16ef52c8d2572e6c545ee34.jpg)
 
 C:
@@ -1025,6 +1079,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![straat met gebakken klinkers](media/866500237520162dcc1b52559e0318eb.jpg)
+
+straat met gebakken klinkers
 
 straat met gebakken klinkers
 
@@ -1169,6 +1225,8 @@ schelpenpad
 
 schelpenpad
 
+schelpenpad
+
 | **Wegdeel**            | **Attribuutwaarde**    | **Opmerkingen** |
 |------------------------|------------------------|-----------------|
 | functie                |                        |                 |
@@ -1190,6 +1248,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![puinweg](media/884d71f879705752b856ca5cf88c13ee.jpg)
+
+puinweg
 
 puinweg
 
@@ -1224,6 +1284,8 @@ grindpad
 
 grindpad
 
+grindpad
+
 | **Wegdeel**            | **Attribuutwaarde** | **Opmerkingen** |
 |------------------------|---------------------|-----------------|
 | functie                |                     |                 |
@@ -1244,6 +1306,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![gravelpad](media/6d8e1fd1a046f5b3c4a66f64903468ec.jpg)
+
+gravelpad
 
 gravelpad
 
@@ -1295,6 +1359,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![boomschors](media/a07cdfe7bf99d37d8cfca7930c20329f.jpg)
+
+boomschors
 
 boomschors
 
