@@ -14,7 +14,7 @@ inwinregels
 >   [Gegevenscatalogus](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-wegdeel)
 >   BGT 1.2
 
->   Indeling
+>   **Indeling**
 
 >   Om de wegdelen in te delen wordt een ordeningsprincipe gehanteerd. De
 >   verzameling wegdelen wordt ingedeeld naar de functie van het wegdeel en naar
@@ -26,7 +26,7 @@ inwinregels
 >   Voor minimale stukjes, 5m2, met andere verharding hoeft geen apart wegdeel
 >   te worden gevormd.
 
->   Regels voor opname
+>   **Regels voor opname**
 
 >   Bestrate gedeelten in voor- en achtertuinen van panden worden beschouwd als
 >   onderdeel van het erf (onbegroeid terreindeel) en worden niet nader
@@ -293,6 +293,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![verbindingsweg](media/e1c5320cab7cf3fc60fffa425a57418f.jpg)
+
+verbindingsweg
 
 verbindingsweg
 
@@ -610,6 +612,8 @@ C is voor IMGeo: Vegetatieobject: Haag.
 
 2325b
 
+2325b
+
 B:
 
 | **Wegdeel**            | **Attribuutwaarde** | **Opmerkingen** |
@@ -623,6 +627,8 @@ A: Onbegroeid terreindeel: Open verharding.
 C en D: Scheiding, Muur.
 
 ![dsc_2330](media/b8edd1f50f5bd873ede0b97d10c109e3.jpg)
+
+dsc_2330
 
 dsc_2330
 
@@ -856,6 +862,8 @@ dsc_2340
 
 dsc_2340
 
+dsc_2340
+
 B en D (afzonderlijke objecten):
 
 | *Wegdeel*              | *Attribuutwaarde*   | *Opmerkingen* |
@@ -909,6 +917,8 @@ gesloten verharding cementbeton
 
 gesloten verharding cementbeton
 
+gesloten verharding cementbeton
+
 | **Wegdeel**            | **Attribuutwaarde**              | **Opmerkingen** |
 |------------------------|----------------------------------|-----------------|
 | functie                |                                  |                 |
@@ -934,6 +944,8 @@ dsc_2340
 
 dsc_2340
 
+dsc_2340
+
 C:
 
 | **Wegdeel**            | **Attribuutwaarde**  | **Opmerkingen** |
@@ -950,6 +962,8 @@ Goten vormen geen BGT inhoud en worden gerekend tot het wegdeel waar ze in
 liggen.
 
 ![DSCN2148](media/8d7ce2e54975c25f6373780d8fb6bcbd.jpg)
+
+DSCN2148
 
 DSCN2148
 
@@ -985,6 +999,8 @@ open verharding betonstraatstenen
 
 open verharding betonstraatstenen
 
+open verharding betonstraatstenen
+
 ![](media/0e4042efa16ef52c8d2572e6c545ee34.jpg)
 
 C:
@@ -1009,6 +1025,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![straat met gebakken klinkers](media/866500237520162dcc1b52559e0318eb.jpg)
+
+straat met gebakken klinkers
 
 straat met gebakken klinkers
 
@@ -1149,6 +1167,8 @@ schelpenpad
 
 schelpenpad
 
+schelpenpad
+
 | **Wegdeel**            | **Attribuutwaarde**    | **Opmerkingen** |
 |------------------------|------------------------|-----------------|
 | functie                |                        |                 |
@@ -1170,6 +1190,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![puinweg](media/884d71f879705752b856ca5cf88c13ee.jpg)
+
+puinweg
 
 puinweg
 
@@ -1200,6 +1222,8 @@ grindpad
 
 grindpad
 
+grindpad
+
 | **Wegdeel**            | **Attribuutwaarde** | **Opmerkingen** |
 |------------------------|---------------------|-----------------|
 | functie                |                     |                 |
@@ -1220,6 +1244,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![gravelpad](media/6d8e1fd1a046f5b3c4a66f64903468ec.jpg)
+
+gravelpad
 
 gravelpad
 
@@ -1269,6 +1295,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![boomschors](media/a07cdfe7bf99d37d8cfca7930c20329f.jpg)
+
+boomschors
 
 boomschors
 
