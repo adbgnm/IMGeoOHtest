@@ -11,13 +11,13 @@ inwinregels
 >   Bron: [Gegevenscatalogus BGT
 >   1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-ondersteunendwegdeel)
 
->   Indeling
+>   **Indeling**
 
 >   Dit object kent een onderverdeling in de typen verkeerseiland en berm. Berm
 >   kent als fysiek voorkomen de verschillende verhardingssoorten en
 >   groenvoorziening.
 
->   Regels voor opname
+>   **Regels voor opname**
 
 >   In de regel is dit object scherp begrensd met het aanliggende wegdeel door
 >   bijvoorbeeld een band of de kant van de verharding. Als een berm bestaat uit
@@ -79,6 +79,8 @@ Ja, verplichte inhoud BGT.
 **Voorbeeld**
 
 ![p1](media/0cc4c53756c22cc2fef34350554becb8.png)
+
+p1
 
 p1
 
