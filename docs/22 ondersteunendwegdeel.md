@@ -8,6 +8,9 @@ inwinregels
 
 ### BGT
 
+>   Bron: [Gegevenscatalogus BGT
+>   1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-ondersteunendwegdeel)
+
 >   Indeling
 
 >   Dit object kent een onderverdeling in de typen verkeerseiland en berm. Berm
@@ -44,10 +47,10 @@ inwinregels
 >   identiek aan de coördinaten van de objectbegrenzing die samenvalt met de
 >   kruinlijn.
 
->   Bron: [Gegevenscatalogus BGT
->   1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-ondersteunendwegdeel)
-
 ### IMGeo
+
+>   Bron: [Gegevenscatalogus IMGeo
+>   2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#ondersteunend-wegdeel)
 
 >   Grasklinkers liggen soms naast een wegdeel in de berm. Het betreffende vlak
 >   vormt dan een afzonderlijk ondersteunend wegdeel. Wanneer een berm bestaat
@@ -55,9 +58,6 @@ inwinregels
 >   objecten -ondersteunend wegdeel- voor IMGeo/BGT; berm met als fysiek
 >   voorkomen respectievelijk groenvoorziening gras en half verhard
 >   grasklinkers.
-
-Bron: [Gegevenscatalogus IMGeo
-2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#ondersteunend-wegdeel)
 
 functie
 -------
