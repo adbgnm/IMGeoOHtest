@@ -1,4 +1,5 @@
-# Wegdeel
+Wegdeel
+=======
 
 **Definitie**
 
@@ -6,113 +7,116 @@ Kleinste functioneel onafhankelijk stukje van een NEN 3610 Weg met
 gelijkblijvende, homogene eigenschappen en relaties en primair bedoeld voor
 gebruik door weg-, spoor- en vliegverkeer te land.
 
-## inwinningsregels
+inwinningsregels
+----------------
 
 ### BGT
 
->   Bron:  [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-wegdeel)
->
+>   Bron: [Gegevenscatalogus BGT
+>   1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-wegdeel)
+
 >   **Indeling**
->
+
 >   Om de wegdelen in te delen wordt een ordeningsprincipe gehanteerd. De
 >   verzameling wegdelen wordt ingedeeld naar de functie van het wegdeel en naar
 >   het fysieke voorkomen.
->
+
 >   Het attribuut fysiek voorkomen geldt voor het gehele wegdeel. Een overgang
 >   van fysiek voorkomen is dus altijd ook een grens tussen twee wegdelen. Het
 >   gaat hierbij over het voorkomen waarmee het wegdeel overwegend is bedekt.
 >   Voor minimale stukjes, 5m2, met andere verharding hoeft geen apart wegdeel
 >   te worden gevormd.
->
+
 >   **Regels voor opname**
->
+
 >   Bestrate gedeelten in voor- en achtertuinen van panden worden beschouwd als
 >   onderdeel van het erf (onbegroeid terreindeel) en worden niet nader
 >   ingewonnen.
->
+
 >   Brandgangen, met een openbaar karakter en waarvan de breedte \>0,90 m
 >   bedraagt, worden opgenomen tot de bebouwingslijn van gebouwen als wegdeel
 >   type voetpad. Brandgangen met een ontsluitingsfunctie van kennelijk openbaar
 >   terrein worden altijd opgenomen.
->
->   ![](media/8eeffe79b8eac59b938801ebe9da837b.jpg)
->
+
+![](media/8eeffe79b8eac59b938801ebe9da837b.jpg)
+
 >   Voorbeeld van weg- en terreindelen
->
+
 >   De kruinlijn moet bij het wegdeel worden opgenomen indien de helling een
 >   verhouding heeft van verticaal:horizontaal van 1:4 of steiler en het
 >   hoogteverschil \> 1 m bedraagt.
->
+
 >   Eén van de zijden van het wegdeel valt altijd samen met de kruinlijn, zijnde
 >   bovenkant talud. De coördinaten van de kruinlijn zijn identiek met die van
 >   de objectbegrenzing ter plaatse. Het gedeelte van een object dat op het
 >   talud ligt, is altijd een apart begrensd vlak ten opzichte van het deel van
 >   het object dat niet op het talud ligt.
->
+
 >   Als er meer dan een objecttype op een talud ligt, bevat alleen het hoogst
 >   gelegen object een kruinlijngeometrie. De coördinaten van de kruinlijn zijn
 >   identiek aan de coördinaten van de objectbegrenzing die samenvalt met de
 >   kruinlijn.
->
+
 >   **Aandachtspunten**
->
+
 >   Het begin van een wegdeel van een auto(snel)weg wordt aangegeven middels een
 >   bord G01 (autosnelweg) en G03 (autoweg). Dit kan zijn ter plaatse van een
 >   kruispunt. In de praktijk staat zo'n bord nooit precies op het kruispunt,
 >   maar enkele meter verder, de praktische werking van het bord geldt vanaf dat
 >   kruispunt.
->
+
 >   Een autosnelweg kan ook beginnen zonder dat er kruispunt aanwezig is.
->
+
 >   Het beëindigen van een wegdeel van een auto(snel)weg kan gebeuren door een
 >   bord G2 (einde autosnelweg) of G04 (einde autoweg). Een autoweg kan ook
 >   eindigen bij een kruispunt. Het bord G03 moet namelijk ná elk kruispunt
 >   worden herhaald.
->
+
 >   Een autosnelweg kan ook eindigen zonder aanwezig kruispunt. Dan wordt het
 >   bord G2 gebruikt en gaat de weg over in een regionale weg.
->
+
 >   Bij een autoweg is er sprake van een, meestal fysieke, scheiding tussen
 >   langzaam verkeer en snelverkeer.
->
+
 >   Samenvattend geldt dat voor het begin en einde van een wegdeel van een
 >   auto(snel)weg de plaats van het bord bepalend is, op basis van de betekenis
 >   in het RVV 1990.
->
+
 >   Molgoten langs wegdelen maken deel uit van dat wegdeel, ook als zij uit een
 >   andere ver­harding bestaan. De buitenzijde van de molgoot vormt de
 >   begrenzing van het wegdeel met vrijwel gelijke hoogte.
->
+
 >   Een afsluitende band hoort bij het wegdeel, verkeerseiland of berm dat
 >   gelijk ligt met de bovenzijde van de band.
->
+
 >   Fietspaden vormen BGT inhoud indien aangeduid met een blauw bord met daarop
 >   een wit rijwiel (bord G11 of G12a), of een blauw of zwart bord met daarop de
 >   tekst “FIETSPAD” of “RIJWIELPAD” (bord G13). In IMGeo mogen stroken
 >   oranjekleurige verharding voorzien van een wit rijwielsymbool worden
 >   opgenomen als fietspad.
->
+
 >   Aaneengesloten parkeervakken die zijn bedoeld voor één voertuig, worden
 >   ingewonnen als één aaneengesloten wegdeel waarbij functieWeg de waarde
 >   ‘parkeervlak’ heeft.
->
+
 >   Uitsparingen in wegdelen, meestal van het type voetpad, voor stedelijk groen
 >   worden niet afzonderlijk ingwonnen indien \<5 m2. Het wegdeel wordt daarbij
 >   geacht door te lopen.
->
+
 >   Belijning, kleur en symboliek zijn geen begrenzingen van wegdelen, zoals
 >   rijbanen, OV-banen en parkeervakken. Een uitzondering geldt voor de
 >   oranjekleurige fietsstroken voorzien van een wit rijwielsymbool. Deze worden
 >   ingewonnen als fietspad.
->
+
 >   Inritten (toegangswegen, oprijlanen) naar erven en terreinen vormen BGT
 >   inhoud wanneer ze langer zijn dan 25 m. Kortere inritten kunnen worden
 >   opgenomen in IMGeo.
 
 ### IMGeo
 
->   Bron:   [Gegevenscatalogus IMGeo 2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#wegdeel-en-weginrichting)
->
+>   Bron: [Gegevenscatalogus IMGeo
+>   2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#wegdeel-en-weginrichting)
+
 >   Ten behoeve van beheer kan een BGT wegdeel uit meerdere beheereenheden
 >   bestaan. Men mag deze zo afbakenen als voor beheer gewenst is. Voor levering
 >   conform BGT of IMGeo moeten voor de attributen de BGT respectievelijk
@@ -120,41 +124,41 @@ gebruik door weg-, spoor- en vliegverkeer te land.
 
 >   In IMGeo kunnen inrichtingselementen, die op wegdelen voorkomen, worden
 >   opgenomen met het objecttype weginrichtingselement.
-> 
->   -   Lijnafwatering wordt opgenomen als lijnobject. Geleideconstructie kan worden
->    opgenomen als punt-, lijn- of vlakobject. Wegmarkeringen worden opgenomen
->    als lijnobject als het gaat om belijning, en als puntobject als het gaat om
->    symbolen op het wegdek.
->
->   -   Wildrooster en rooster worden opgenomen als punt-, lijn- of vlakobject.
->
->   -   Grasklinkers die onderdeel zijn van een wegdeel kunnen worden opgenomen met
->    fysiek voorkomen ‘half verhard: grasklinkers’.
->
->   -   In de BGT maken molgoten deel uit van een wegdeel. In IMGeo kunnen molgoten
->    worden opgenomen als Weginrichtingselement type molgoot (lijngeometrie).
->
->   -   In de BGT maakt een afsluitende band deel uit van een wegdeel,
->    verkeerseiland of berm. In IMGeo kan een band worden opgenomen als
+
+>   Lijnafwatering wordt opgenomen als lijnobject. Geleideconstructie kan worden
+>   opgenomen als punt-, lijn- of vlakobject. Wegmarkeringen worden opgenomen
+>   als lijnobject als het gaat om belijning, en als puntobject als het gaat om
+>   symbolen op het wegdek.
+
+>   Wildrooster en rooster worden opgenomen als punt-, lijn- of vlakobject.
+
+>   Grasklinkers die onderdeel zijn van een wegdeel kunnen worden opgenomen met
+>   fysiek voorkomen ‘half verhard: grasklinkers’.
+
+>   In de BGT maken molgoten deel uit van een wegdeel. In IMGeo kunnen molgoten
+>   worden opgenomen als Weginrichtingselement type molgoot (lijngeometrie).
+
+>   In de BGT maakt een afsluitende band deel uit van een wegdeel,
+>   verkeerseiland of berm. In IMGeo kan een band worden opgenomen als
 >   Weginrichtingselement type geleideconstructie.
->
->   -   In IMGeo kunnen stroken oranjekleurige verharding voorzien van een wit
->    rijwielsymbool worden opgenomen als fietspad. Fietssuggestiestroken (zonder
->    wit rijwielsymbool) vormen geen inhoud van IMGeo.
->
->   -   In de BGT worden aaneengesloten parkeervakken ingewonnen als één wegdeel. In
->    IMGeo kunnen deze eventueel nader worden ingedeeld. Ook kan de belijning als
->    weginrichtingselement worden opgenomen.
->
->   -   In de BGT worden uitsparingen in wegdelen voor stedelijk groen niet apart
->    ingewonnen indien \< 5 m2. In IMGeo kunnen deze worden opgenomen als
->    ‘begroeid terreindeel groenvoorziening’.
->
->   -   Wegmarkeringen zoals symbolen, belijning en kleur zijn geen BGT inhoud maar
->    kunnen in IMGEO worden opgenomen als weginrichtingselement.
->
->   -   Inritten (toegangswegen, oprijlanen) naar erven en terreinen korter dan 25 m
->    kunnen worden opgenomen als IMGeo inhoud.
+
+>   In IMGeo kunnen stroken oranjekleurige verharding voorzien van een wit
+>   rijwielsymbool worden opgenomen als fietspad. Fietssuggestiestroken (zonder
+>   wit rijwielsymbool) vormen geen inhoud van IMGeo.
+
+>   In de BGT worden aaneengesloten parkeervakken ingewonnen als één wegdeel. In
+>   IMGeo kunnen deze eventueel nader worden ingedeeld. Ook kan de belijning als
+>   weginrichtingselement worden opgenomen.
+
+>   In de BGT worden uitsparingen in wegdelen voor stedelijk groen niet apart
+>   ingewonnen indien \< 5 m2. In IMGeo kunnen deze worden opgenomen als
+>   ‘begroeid terreindeel groenvoorziening’.
+
+>   Wegmarkeringen zoals symbolen, belijning en kleur zijn geen BGT inhoud maar
+>   kunnen in IMGEO worden opgenomen als weginrichtingselement.
+
+>   Inritten (toegangswegen, oprijlanen) naar erven en terreinen korter dan 25 m
+>   kunnen worden opgenomen als IMGeo inhoud.
 
 functie
 -------
@@ -329,6 +333,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![verbindingsweg](media/e1c5320cab7cf3fc60fffa425a57418f.jpg)
+
+verbindingsweg
 
 verbindingsweg
 
@@ -654,6 +660,8 @@ C is voor IMGeo: Vegetatieobject: Haag.
 
 2325b
 
+2325b
+
 B:
 
 | **Wegdeel**            | **Attribuutwaarde** | **Opmerkingen** |
@@ -667,6 +675,8 @@ A: Onbegroeid terreindeel: Open verharding.
 C en D: Scheiding, Muur.
 
 ![dsc_2330](media/b8edd1f50f5bd873ede0b97d10c109e3.jpg)
+
+dsc_2330
 
 dsc_2330
 
@@ -882,7 +892,8 @@ A:
 
 De perken met groenvoorziening zijn \< 5m2 en daarom eventueel IMGeo inhoud.
 
-## fysieke voorkomen
+fysieke voorkomen
+-----------------
 
 **Definitie**
 
@@ -902,6 +913,8 @@ Ja, verplichte inhoud BGT.
 **Voorbeeld**
 
 ![dsc_2340](media/4ed1c8f35b03db11eaed135700b8543d.jpg)
+
+dsc_2340
 
 dsc_2340
 
@@ -968,6 +981,8 @@ gesloten verharding cementbeton
 
 gesloten verharding cementbeton
 
+gesloten verharding cementbeton
+
 | **Wegdeel**            | **Attribuutwaarde**              | **Opmerkingen** |
 |------------------------|----------------------------------|-----------------|
 | functie                |                                  |                 |
@@ -997,6 +1012,8 @@ dsc_2340
 
 dsc_2340
 
+dsc_2340
+
 C:
 
 | **Wegdeel**            | **Attribuutwaarde**  | **Opmerkingen** |
@@ -1013,6 +1030,8 @@ Goten vormen geen BGT inhoud en worden gerekend tot het wegdeel waar ze in
 liggen.
 
 ![DSCN2148](media/8d7ce2e54975c25f6373780d8fb6bcbd.jpg)
+
+DSCN2148
 
 DSCN2148
 
@@ -1056,6 +1075,8 @@ open verharding betonstraatstenen
 
 open verharding betonstraatstenen
 
+open verharding betonstraatstenen
+
 ![](media/0e4042efa16ef52c8d2572e6c545ee34.jpg)
 
 C:
@@ -1080,6 +1101,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![straat met gebakken klinkers](media/866500237520162dcc1b52559e0318eb.jpg)
+
+straat met gebakken klinkers
 
 straat met gebakken klinkers
 
@@ -1228,6 +1251,8 @@ schelpenpad
 
 schelpenpad
 
+schelpenpad
+
 | **Wegdeel**            | **Attribuutwaarde**    | **Opmerkingen** |
 |------------------------|------------------------|-----------------|
 | functie                |                        |                 |
@@ -1249,6 +1274,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![puinweg](media/884d71f879705752b856ca5cf88c13ee.jpg)
+
+puinweg
 
 puinweg
 
@@ -1287,6 +1314,8 @@ grindpad
 
 grindpad
 
+grindpad
+
 | **Wegdeel**            | **Attribuutwaarde** | **Opmerkingen** |
 |------------------------|---------------------|-----------------|
 | functie                |                     |                 |
@@ -1307,6 +1336,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![gravelpad](media/6d8e1fd1a046f5b3c4a66f64903468ec.jpg)
+
+gravelpad
 
 gravelpad
 
@@ -1344,9 +1375,6 @@ A:
 | fysiekVoorkomen        | onverhard            |                 |
 | relatieveHoogteligging |  0                   |                 |
 
-Objecttype: OndersteunendWegdeel
---------------------------------
-
 #### boomschors
 
 **Definitie**
@@ -1360,14 +1388,6 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![boomschors](media/a07cdfe7bf99d37d8cfca7930c20329f.jpg)
-
-boomschors
-
-boomschors
-
-boomschors
-
-boomschors
 
 | **Wegdeel**            | **Attribuutwaarde**   | **Opmerkingen** |
 |------------------------|-----------------------|-----------------|
