@@ -882,8 +882,11 @@ A:
 
 De perken met groenvoorziening zijn \< 5m2 en daarom eventueel IMGeo inhoud.
 
-FysiekVoorkomenWeg
-------------------
+## fysieke voorkomen
+
+**Definitie**
+
+Mate waarin het wegdeel al of niet verhard is.
 
 ### gesloten verharding
 
