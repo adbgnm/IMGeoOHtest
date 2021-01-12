@@ -157,10 +157,10 @@ OndersteunendWaterdeel, oever, slootkant
 
 >   B en E:
 
-| Attribuutnaam          | Attribuutwaarde  |
-|------------------------|------------------|
-| type                   | oever, slootkant |
-| relatieveHoogteligging | 0                |
+| **OndersteunendWaterdeel** | **Attribuutwaarde** | **Opmerkingen** |
+|----------------------------|---------------------|-----------------|
+| type                       | oever, slootkant    |                 |
+| relatieveHoogteligging     | 0                   |                 |
 
 >   A: wegdeel, rijbaan: lokale weg, open verharding C: scheiding, kademuur. D:
 >   waterdeel, waterloop.
@@ -180,7 +180,7 @@ Ja, verplichte inhoud BGT.
 
 ![OndersteunendWaterdeel, slik](media/40d9840170b4007a09bdd8c1fd8a5b23.png)
 
-| Attribuutnaam          | Attribuutwaarde |
-|------------------------|-----------------|
-| type                   | slik            |
-| relatieveHoogteligging | 0               |
+| **OndersteunendWaterdeel** | **Attribuutwaarde** | **Opmerkingen** |
+|----------------------------|---------------------|-----------------|
+| type                       | slik                |                 |
+| relatieveHoogteligging     | 0                   |                 |
