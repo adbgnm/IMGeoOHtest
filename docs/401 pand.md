@@ -12,27 +12,28 @@ Inwinningsregels
 
 ### BGT
 
-Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-pand-panddelen)
+Bron: [Gegevenscatalogus BGT
+1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-pand-panddelen)
 
->   #### Regels voor opname
->
+>   **Regels voor opname**
+
 >   De BGT bevat alleen die objecten die de bestaande situatie in de
 >   werkelijkheid representeren. Uitsluitend panden die in de BAG voorkomen met
 >   de volgende status maken met hun grondvlakgeometrie deel uit van de BGT: •
 >   ‘Bouw gestart’; • ‘Pand in gebruik (niet ingemeten)’; • ‘Pand in gebruik’; •
 >   ‘Sloopvergunning verleend’; • ‘Pand buiten gebruik’.
->
+
 >   De voorwaarde is wel dat deze panden al zijn ingemeten en/of dat het gaat om
 >   bestaande panden, waarvoor een bouwvergunning is verleend.
->
+
 >   De grondvlakgeometrie is daar waar de ‘footprint’ van het pand de ondergrond
 >   raakt (rh = 0).
->
+
 >   Voor panden die in hun geheel boven water liggen, bijvoorbeeld een
 >   brugwachtershuis dat aan een brug hangt, geldt dat dit pand in de BGT
 >   voorkomt met een relatieve hoogte (rh) \> 0, in ieder geval ligt het hoger
 >   dan het water waar het zich boven bevindt.
->
+
 >   Uitstulpingen in gevels, zoals steunberen, behoren tot de pandgeometrie als
 >   de afmetingen groter zijn dan 30x30cm. Als zij kleiner zijn, worden zij niet
 >   opgenomen (generalisatie). Als zich op de hoeken van een gebouw
@@ -45,11 +46,20 @@ Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus
 >   (overbouw) van een pand behoren tot de grondvlakgeometrie als de kleinste
 >   afmeting (rechthoekzijde of middellijn) op het grondvlak meer dan 30 cm
 >   bedraagt.
->
->   Aandachtspunten Voor veel panden is de grondvlakgeometrie overgenomen door
->   de BAG als geometrie voor de buitenomtrek van het pand omdat deze
->   geometrieën identiek zijn, met inachtneming van de in vorige paragraaf
->   vermelde twee regels.
+
+>   **Aandachtspunten**
+
+>   Voor veel panden is de grondvlakgeometrie overgenomen door de BAG als
+>   geometrie voor de buitenomtrek van het pand omdat deze geometrieën identiek
+>   zijn, met inachtneming van de in vorige paragraaf vermelde twee regels.
+
+### IMGeo
+
+Bron: [Gegevenscatalogus IMGeo
+2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#gebouwinstallatie)
+
+>   Gebouwinstallaties zijn aan het pand verbonden toegangstrappen, luifels en
+>   bordessen.
 
 ### BAG en BGT
 
@@ -278,8 +288,9 @@ Maaiveld van huis en garage is BGT-geometrie.
 De overbouw onder carport is BAG-geometrie. De carport zelf is geen BAG of
 BGT-inhoud en kan eventueel worden geclassificeerd als IMGeo-inhoud.
 
-![](./media/image27.jpeg) 
-Deze carport is geen inhoud voor de BAG of BGT, het vormt immers geen onderdeel voor pand of vbo. Eventueel kan de luifel worden geclassificeerd als plustopografie in IMGeo.
+Deze carport is geen inhoud voor de BAG of BGT, het vormt immers geen onderdeel
+voor pand of vbo. Eventueel kan de luifel worden geclassificeerd als
+plustopografie in IMGeo.
 
 ![](media/b8b7e94537201bda850d66665fd5958f.jpg)
 
@@ -353,8 +364,9 @@ IMGeo.
 
 Hier geldt hetzelfde als bij voorgaande voorbeelden.
 
-![](./media/image43.jpeg)
-Dit is de luifel van de entree van een pand, zijnde winkelcentrum. De luifel wordt eventueel geclassificeerd als plustopografie in IMGeo. De bij de luifel horende pilaar is BGT inhoud wanneer \> 0,30 x 0,30 m of \> ∅ 0,30 m.
+Dit is de luifel van de entree van een pand, zijnde winkelcentrum. De luifel
+wordt eventueel geclassificeerd als plustopografie in IMGeo. De bij de luifel
+horende pilaar is BGT inhoud wanneer \> 0,30 x 0,30 m of \> ∅ 0,30 m.
 
 ![](media/33fb1bd9a8c2f599d43c8b76faa34851.jpg)
 
@@ -474,9 +486,3 @@ Deze foto’s tonen gazen bakken met steenbrokken, zoals in bergachtige streken
 wordt toegepast als versteviging van bergwanden en lawinekering, hier in gebruik
 als alternatief voor betonwanden. Voor de BGT is dit inhoud wanneer de muur een
 scheiding tussen twee objecten vormt.
-
-### IMGeo
-
-Bron: [Gegevenscatalogus IMGeo 2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#gebouwinstallatie)
-
-> Gebouwinstallaties zijn aan het pand verbonden toegangstrappen, luifels en bordessen. 
