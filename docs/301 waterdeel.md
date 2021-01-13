@@ -462,8 +462,3 @@ A: begroeidterreindeel, grasland agrarisch
 
 C: begroeidterreindeel, loofbos.
 
-Objecttype: OndersteunendWaterdeel
-----------------------------------
-
-TypeWaterPlus
--------------
