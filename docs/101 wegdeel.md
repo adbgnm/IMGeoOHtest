@@ -1,6 +1,6 @@
 ---
 title: Wegdeel
-permalink: /:title/
+permalink: /objectenhandboek/:title/
 ---
 
 # Wegdeel
