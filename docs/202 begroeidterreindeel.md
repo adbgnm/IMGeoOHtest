@@ -1,6 +1,8 @@
 BegroeidTerreindeel
 ===================
 
+**Definitie**
+
 Kleinste functioneel onafhankelijk stukje van een terrein dat er binnen het
 objecttype Terrein van NEN 3610 wordt onderscheiden, met aaneengesloten
 vegetatie.
@@ -53,6 +55,8 @@ Bron: [Gegevenscatalogus IMGeo 2.2](https://docs.geostandaarden.nl/imgeo/catalog
 >   groenvoorzieningen, bouwland, fruitteelt, loofbos en duin.
 
 ## fysiekvoorkomen
+
+**Definitie**
 
 Classificatie van het vegetatiedek, ingedeeld naar soort vegetatie.
 
