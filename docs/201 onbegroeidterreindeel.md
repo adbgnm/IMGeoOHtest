@@ -7,8 +7,8 @@ Kleinste functioneel onafhankelijk stukje van een terrein, dat er binnen het
 objecttype Terrein van NEN 3610 wordt onderscheiden, zonder aaneengesloten
 vegetatie.
 
-Inwinregels
------------
+Inwinningsregels
+----------------
 
 ### BGT
 
@@ -466,6 +466,8 @@ Nee, optionele inhoud IMGeo.
 | relatieveHoogteligging    |                           |                 |
 
 ![dsc_2475](media/f0460d1920e80be9dbb94c11a09e9057.jpg)
+
+dsc_2475
 
 dsc_2475
 
