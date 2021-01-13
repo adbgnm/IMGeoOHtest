@@ -12,7 +12,7 @@ gebruik door weg-, spoor- en vliegverkeer te land.
 
 Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-wegdeel)
 >
->   #### Indeling
+>   # Indeling
 >
 >   Om de wegdelen in te delen wordt een ordeningsprincipe gehanteerd. De
 >   verzameling wegdelen wordt ingedeeld naar de functie van het wegdeel en naar
@@ -24,7 +24,7 @@ Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus
 >   Voor minimale stukjes, 5m2, met andere verharding hoeft geen apart wegdeel
 >   te worden gevormd.
 >
->   #### Regels voor opname**
+>   # Regels voor opname**
 >
 >   Bestrate gedeelten in voor- en achtertuinen van panden worden beschouwd als
 >   onderdeel van het erf (onbegroeid terreindeel) en worden niet nader
@@ -52,7 +52,7 @@ Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus
 >   identiek aan de coördinaten van de objectbegrenzing die samenvalt met de
 >   kruinlijn.
 >
->   #### Aandachtspunten
+>   # Aandachtspunten
 >
 >   Het begin van een wegdeel van een auto(snel)weg wordt aangegeven middels een
 >   bord G01 (autosnelweg) en G03 (autoweg). Dit kan zijn ter plaatse van een
