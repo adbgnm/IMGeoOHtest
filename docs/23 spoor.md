@@ -96,12 +96,6 @@ A en B (gescheiden objecten):
 | functie                | Tram                |                 |
 | relatieveHoogteligging |  0                  |                 |
 
-Objecttype: OnbegroeidTerreindeel
----------------------------------
-
-FunctieSpoorPlus
-----------------
-
 ### (haven)kraan
 
 **Definitie**

@@ -1,4 +1,5 @@
-**OndersteunendWaterdeel**
+OndersteunendWaterdeel
+======================
 
 **Definitie**
 
@@ -155,6 +156,8 @@ Ja, verplichte inhoud BGT.
 
 OndersteunendWaterdeel, oever, slootkant
 
+OndersteunendWaterdeel, oever, slootkant
+
 >   B en E:
 
 | **OndersteunendWaterdeel** | **Attribuutwaarde** | **Opmerkingen** |
@@ -179,6 +182,8 @@ Ja, verplichte inhoud BGT.
 **Voorbeeld**
 
 ![OndersteunendWaterdeel, slik](media/40d9840170b4007a09bdd8c1fd8a5b23.png)
+
+OndersteunendWaterdeel, slik
 
 | **OndersteunendWaterdeel** | **Attribuutwaarde** | **Opmerkingen** |
 |----------------------------|---------------------|-----------------|
