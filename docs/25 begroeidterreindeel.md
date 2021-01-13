@@ -70,11 +70,13 @@ gesloten geheel vormen of, na volgroeiing van de bomen, zullen vormen.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/da0203b8b41d6b7518fa8b0bbfe37ac6.jpg)
 
 ![P1060140](media/68dae68f25cab2bf7b8038c310a4a017.jpg)
+
+P1060140
 
 A:
 
@@ -115,7 +117,7 @@ vormen.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/b5d336dd09586c40b071d3c84707a138.jpg)
 
@@ -135,7 +137,7 @@ meer gesloten geheel vormen of, na volgroeiing van de bomen, zullen vormen.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/e58bc16a954094c20dfebe7b7f8d791a.jpg)
 
@@ -154,7 +156,7 @@ Terreindeel overwegend begroeid met heide en heideachtige vegetaties.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/1bb79e9f6e7f185eba1296159d0763ff.jpg)
 
@@ -175,7 +177,7 @@ wortel en afwezigheid van opvallende stammen.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/de9e40491fde18e8b2d3e7fffb30dce5.jpg)
 
@@ -199,9 +201,11 @@ struiken.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![P1060155](media/887f76e49a4970ea9a70b7cdf126dcc9.jpg)
+
+P1060155
 
 P1060155
 
@@ -225,7 +229,7 @@ opgeworpen door wind of door stromend water.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/b980292aa4b87e4afa9d9776bbf881f9.jpg)
 
@@ -282,7 +286,7 @@ doeleinden.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/fde34790554d5ef7dab21c24b85f5702.jpg)
 
@@ -310,7 +314,7 @@ merkbare toe- of afvloeiing.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/a562622e6136a7c9ea7cccaff1c5d5cd.jpg)
 
@@ -331,7 +335,7 @@ Terreindeel overwegend begroeid met rietvegetatie.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/efe455573a26b34552690485f655376e.jpg)
 
@@ -353,7 +357,7 @@ onder loopt.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/4c5dd6ad4c43f700dc5b3782a50a6c83.jpg)
 
@@ -377,7 +381,7 @@ laagstamboomgaard, druiven of kleinfruit.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/71af94609081ddd52aeef15160a80854.jpg)
 
@@ -467,7 +471,7 @@ van een later gebruik elders.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/bd3ffc80f4cd4ccbf0a6b75cb83de1a7.jpg)
 
@@ -487,7 +491,7 @@ zijn opgenomen. Kan tijdelijk zonder gewas zijn of braak liggen.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/d5b498967f97f5e3e06e1d15a1f8c3a3.jpg)
 
@@ -580,7 +584,7 @@ voor de veeteelt, bijvoorbeeld als weiland of als hooiland.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![](media/7e61713f196102f43d23b639e8a8d298.jpg)
 
@@ -607,9 +611,11 @@ Terreindeel met aangelegde beplanting, meestal gras, heesters of struiken.
 
 Nee, optionele inhoud IMGeo.
 
-**Voorbeeld:**
+**Voorbeeld**
 
 ![dsc_2326](media/3688fe30b282aecff11723b622c81384.jpg)
+
+dsc_2326
 
 dsc_2326
 
@@ -623,6 +629,8 @@ C en D (afzonderlijke objecten):
 A en B: wegdeel, voetpad, open verharding.
 
 ![dsc_2321](media/0bd657e599644ffdbdeeb6e1246afb3a.jpg)
+
+dsc_2321
 
 dsc_2321
 
