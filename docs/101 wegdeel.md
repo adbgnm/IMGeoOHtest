@@ -900,17 +900,7 @@ Ja, verplichte inhoud BGT.
 
 **Voorbeeld**
 
-![dsc_2340](media/4ed1c8f35b03db11eaed135700b8543d.jpg)
-
-dsc_2340
-
-dsc_2340
-
-dsc_2340
-
-dsc_2340
-
-dsc_2340
+![](media/4ed1c8f35b03db11eaed135700b8543d.jpg)
 
 B en D (afzonderlijke objecten):
 
@@ -959,17 +949,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-![gesloten verharding cementbeton](media/9ff214a528306aa24549efcc626c7959.jpg)
-
-gesloten verharding cementbeton
-
-gesloten verharding cementbeton
-
-gesloten verharding cementbeton
-
-gesloten verharding cementbeton
-
-gesloten verharding cementbeton
+![](media/9ff214a528306aa24549efcc626c7959.jpg)
 
 | **Wegdeel**            | **Attribuutwaarde**              | **Opmerkingen** |
 |------------------------|----------------------------------|-----------------|
@@ -990,17 +970,7 @@ Ja, verplichte inhoud BGT.
 
 **Voorbeeld**
 
-![dsc_2340](media/4ed1c8f35b03db11eaed135700b8543d.jpg)
-
-dsc_2340
-
-dsc_2340
-
-dsc_2340
-
-dsc_2340
-
-dsc_2340
+![](media/4ed1c8f35b03db11eaed135700b8543d.jpg)
 
 C:
 
@@ -1017,17 +987,7 @@ Overige letters op vorige bladzijde.
 Goten vormen geen BGT inhoud en worden gerekend tot het wegdeel waar ze in
 liggen.
 
-![DSCN2148](media/8d7ce2e54975c25f6373780d8fb6bcbd.jpg)
-
-DSCN2148
-
-DSCN2148
-
-DSCN2148
-
-DSCN2148
-
-DSCN2148
+![](media/8d7ce2e54975c25f6373780d8fb6bcbd.jpg)
 
 Zebrapad heeft hetzelfde fysiek voorkomen als rest wegdeel en hoort daarom voor
 de BGT bij A.
@@ -1053,17 +1013,8 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-![open verharding betonstraatstenen](media/8c38e082b495b23bad04d46dbe2685e9.jpg)
+![](media/8c38e082b495b23bad04d46dbe2685e9.jpg)
 
-open verharding betonstraatstenen
-
-open verharding betonstraatstenen
-
-open verharding betonstraatstenen
-
-open verharding betonstraatstenen
-
-open verharding betonstraatstenen
 
 ![](media/0e4042efa16ef52c8d2572e6c545ee34.jpg)
 
@@ -1088,17 +1039,8 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-![straat met gebakken klinkers](media/866500237520162dcc1b52559e0318eb.jpg)
+![](media/866500237520162dcc1b52559e0318eb.jpg)
 
-straat met gebakken klinkers
-
-straat met gebakken klinkers
-
-straat met gebakken klinkers
-
-straat met gebakken klinkers
-
-straat met gebakken klinkers
 
 | **Wegdeel**            | **Attribuutwaarde**                | **Opmerkingen** |
 |------------------------|------------------------------------|-----------------|
@@ -1229,17 +1171,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-![schelpenpad](media/6e255aa6ea6aee33b0c98fefb4856ae7.jpg)
-
-schelpenpad
-
-schelpenpad
-
-schelpenpad
-
-schelpenpad
-
-schelpenpad
+![](media/6e255aa6ea6aee33b0c98fefb4856ae7.jpg)
 
 | **Wegdeel**            | **Attribuutwaarde**    | **Opmerkingen** |
 |------------------------|------------------------|-----------------|
@@ -1261,17 +1193,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-![puinweg](media/884d71f879705752b856ca5cf88c13ee.jpg)
-
-puinweg
-
-puinweg
-
-puinweg
-
-puinweg
-
-puinweg
+![](media/884d71f879705752b856ca5cf88c13ee.jpg)
 
 | **Wegdeel**            | **Attribuutwaarde** | **Opmerkingen** |
 |------------------------|---------------------|-----------------|
@@ -1292,17 +1214,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-![grindpad](media/df463d83012a2a1d46bada3755ab33c3.jpg)
-
-grindpad
-
-grindpad
-
-grindpad
-
-grindpad
-
-grindpad
+![](media/df463d83012a2a1d46bada3755ab33c3.jpg)
 
 | **Wegdeel**            | **Attribuutwaarde** | **Opmerkingen** |
 |------------------------|---------------------|-----------------|
@@ -1323,17 +1235,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-![gravelpad](media/6d8e1fd1a046f5b3c4a66f64903468ec.jpg)
-
-gravelpad
-
-gravelpad
-
-gravelpad
-
-gravelpad
-
-gravelpad
+![](media/6d8e1fd1a046f5b3c4a66f64903468ec.jpg)
 
 | **Wegdeel**            | **Attribuutwaarde**  | **Opmerkingen** |
 |------------------------|----------------------|-----------------|
