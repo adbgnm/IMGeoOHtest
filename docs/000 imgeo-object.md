@@ -18,10 +18,3 @@ graph TB
     c1-->c2
     end
 ```
-
-
-classDiagram
-
-IMGeo-object \<\|-- Wegdeel
-
-IMGeo-object \<\|-- OndersteunendWegdeel
