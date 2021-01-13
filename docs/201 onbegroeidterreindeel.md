@@ -104,7 +104,7 @@ Ja, verplichte inhoud BGT.
 
 **Voorbeeld**
 
-Foto zie 2.1.17, wegdeel, gesloten verharding.
+Zie wegdeel, gesloten verharding.
 
 A:
 
