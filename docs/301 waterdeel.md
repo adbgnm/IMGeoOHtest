@@ -1,6 +1,6 @@
 ---
 title: Waterdeel
-sort: 1
+order: 1
 ---
 
 Waterdeel
