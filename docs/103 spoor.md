@@ -1,5 +1,7 @@
 # Spoor
 
+**Definitie**
+
 De as van het spoor, dat wil zeggen het midden van twee stalen staven op een
 onderling vaste afstand, waarover trein, tram, of sneltram rijdt.
 
@@ -17,6 +19,8 @@ Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus
 >   De as van elk afzonderlijk spoor wordt weergegeven.
 
 ## functie
+
+**Definitie**
 
 Specificatie van het soort gebruik van het spoor.
 
