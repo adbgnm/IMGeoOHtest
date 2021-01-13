@@ -1,5 +1,7 @@
 # OnbegroeidTerreindeel
 
+**Definitie**
+
 Kleinste functioneel onafhankelijk stukje van een terrein, dat er binnen het objecttype Terrein van NEN 3610 wordt onderscheiden, zonder aaneengesloten vegetatie.
 
 ## Inwinregels
@@ -64,6 +66,8 @@ Bron: [Gegevenscatalogus IMGeo 2.2](https://docs.geostandaarden.nl/imgeo/catalog
 >   inhoud zijn. Men mag deze delen zo afbakenen als voor beheer gewenst is.
 
 ## fysiekvoorkomen
+
+**Definitie**
 
 Classificatie van het soort terrein, ingedeeld naar de uiterlijke
 verschijningsvorm.
