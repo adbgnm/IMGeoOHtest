@@ -12,7 +12,7 @@ inwinningsregels
 
 ### BGT
 
->   Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-wegdeel)
+Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-wegdeel)
 >
 >   #### Indeling
 >
@@ -111,7 +111,7 @@ inwinningsregels
 
 ### IMGeo
 
->   Bron: [Gegevenscatalogus IMGeo 2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#wegdeel-en-weginrichting)
+Bron: [Gegevenscatalogus IMGeo 2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#wegdeel-en-weginrichting)
 >
 >   Ten behoeve van beheer kan een BGT wegdeel uit meerdere beheereenheden
 >   bestaan. Men mag deze zo afbakenen als voor beheer gewenst is. Voor levering
