@@ -1,5 +1,6 @@
 ---
-title: blabla Wegdeel
+title: Wegdeel
+permalink: /wegdeeltje/
 ---
 
 # Wegdeel
