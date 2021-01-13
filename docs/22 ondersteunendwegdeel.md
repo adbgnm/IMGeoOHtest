@@ -3,21 +3,21 @@ OndersteunendWegdeel
 
 Een deel van de weg dat niet primair bedoeld is voor gebruik door het verkeer.
 
-inwinregels
------------
+inwinningsregels
+----------------
 
 ### BGT
 
 >   Bron: [Gegevenscatalogus BGT
 >   1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-ondersteunendwegdeel)
 
->   **Indeling**
+#### Indeling
 
 >   Dit object kent een onderverdeling in de typen verkeerseiland en berm. Berm
 >   kent als fysiek voorkomen de verschillende verhardingssoorten en
 >   groenvoorziening.
 
->   **Regels voor opname**
+#### Regels voor opname
 
 >   In de regel is dit object scherp begrensd met het aanliggende wegdeel door
 >   bijvoorbeeld een band of de kant van de verharding. Als een berm bestaat uit
@@ -80,10 +80,6 @@ Ja, verplichte inhoud BGT.
 
 ![p1](media/0cc4c53756c22cc2fef34350554becb8.png)
 
-p1
-
-p1
-
 C:
 
 | *OndersteunendWegdeel*   | *Attribuutwaarde* | *Opmerkingen* |
@@ -106,6 +102,50 @@ Een strook grond langs een weg of spoorweg.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
+*Het ondersteunend wegdeel Berm kent dezelfde waarden voor fysiek voorkomen als
+geldt voor Wegdeel, aangevuld met de classificatie groenvoorziening zoals
+voorkomt bij Begroeid terreindeel.*
+
+*Niet van al deze mogelijke classificaties zijn fotovoorbeelden opgenomen.*
+
+![](media/9412f0da647ee2ae329684e9b569485a.jpg)
+
+B:
+
+| **OndersteunendWegdeel** | **Attribuutwaarde** | **Opmerkingen** |
+|--------------------------|---------------------|-----------------|
+| functie                  | berm                |                 |
+| Fysiek voorkomen         | open verharding     |                 |
+| relatieveHoogteligging   |  0                  |                 |
+
+A: Wegdeel, Rijbaan: Lokale weg, Gesloten verharding.
+
+C: Wegdeel, Fietspad, Wegdeel, Gesloten verharding.
+
+D: Wegdeel, Voetpad, Open verharding.
+
+![](media/60532073d11052d49de0dd6737691bae.jpg)
+
+B:
+
+| *OndersteunendWegdeel*   | *Attribuutwaarde* | *Opmerkingen* |
+|--------------------------|-------------------|---------------|
+| typeOndersteunendWegdeel | Berm              |               |
+| fysiekVoorkomen          | onverhard         |               |
+| relatieveHoogteligging   | 0                 |               |
+
+C:
+
+| *OndersteunendWegdeel*   | *Attribuutwaarde* | *Opmerkingen* |
+|--------------------------|-------------------|---------------|
+| typeOndersteunendWegdeel | Berm              |               |
+| fysiekVoorkomen          | groenvoorziening  |               |
+| relatieveHoogteligging   | 0                 |               |
+
+A: Wegdeel, Rijbaan: Lokale weg, Gesloten verharding.
+
 fysiekvoorkomen
 ---------------
 
@@ -126,6 +166,10 @@ definitieve destructie, zoals bijvoorbeeld bitumen, cement of kunststof.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
+
 #### asfalt
 
 **Definitie**
@@ -137,6 +181,10 @@ materialen.
 
 Nee, optionele inhoud IMGeo.
 
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
+
 #### cementbeton
 
 **Definitie**
@@ -146,6 +194,10 @@ Gesloten verharding bestaande uit gewapend of ongewapend beton.
 **Verplicht?**
 
 Nee, optionele inhoud IMGeo.
+
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
 
 ### open verharding
 
@@ -158,6 +210,10 @@ afmetingen, zoals bijvoorbeeld klinkers en tegels.
 
 Ja, verplichte inhoud BGT.
 
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
+
 #### betonstraatstenen
 
 **Definitie**
@@ -168,6 +224,10 @@ vervanging van de gebakken klinkers is ontwikkeld.
 **Verplicht?**
 
 Nee, optionele inhoud IMGeo.
+
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
 
 #### gebakken klinkers
 
@@ -180,6 +240,10 @@ geproduceerd uit grondstof van eigen bodem; de beddingen van onze rivieren.
 
 Nee, optionele inhoud IMGeo.
 
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
+
 #### tegels
 
 **Definitie**
@@ -190,6 +254,10 @@ voor trottoirbestrating.
 **Verplicht?**
 
 Nee, optionele inhoud IMGeo.
+
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
 
 #### sierbestrating
 
@@ -202,6 +270,10 @@ in een sierverband, die vooral wordt toegepast uit esthetische overwegingen.
 
 Nee, optionele inhoud IMGeo.
 
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
+
 #### beton element
 
 **Definitie**
@@ -213,6 +285,10 @@ stelconplaten.
 
 Nee, optionele inhoud IMGeo.
 
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
+
 ### half verhard
 
 **Definitie**
@@ -223,6 +299,10 @@ onsamenhangend materiaal.
 **Verplicht?**
 
 Ja, verplichte inhoud BGT.
+
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
 
 #### grasklinkers
 
@@ -236,6 +316,10 @@ met tussenruimten aangebracht.
 
 Nee, optionele inhoud IMGeo.
 
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
+
 #### schelpen
 
 **Definitie**
@@ -245,6 +329,10 @@ Ongebonden verharding bestaande uit schelpenmateriaal.
 **Verplicht?**
 
 Nee, optionele inhoud IMGeo.
+
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
 
 #### puin
 
@@ -258,6 +346,10 @@ andere objecten.
 
 Nee, optionele inhoud IMGeo.
 
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
+
 #### grind
 
 **Definitie**
@@ -268,6 +360,10 @@ doorsnede variëren van 1 tot 5 cm.
 **Verplicht?**
 
 Nee, optionele inhoud IMGeo.
+
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
 
 #### gravel
 
@@ -280,6 +376,10 @@ en ook wel op atletiekbanen.
 
 Nee, optionele inhoud IMGeo.
 
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
+
 ### onverhard
 
 **Definitie**
@@ -289,6 +389,10 @@ Wegdelen waar geen verharding of aaneengesloten vegetatie aanwezig is.
 **Verplicht?**
 
 Ja, verplichte inhoud BGT.
+
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
 
 #### boomschors
 
@@ -300,6 +404,10 @@ Onverhard met als deklaag boomschors.
 
 Nee, optionele inhoud IMGeo.
 
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
+
 #### zand
 
 **Definitie**
@@ -310,6 +418,10 @@ Onverhard met als deklaag zand.
 
 Nee, optionele inhoud IMGeo.
 
+**Voorbeeld**
+
+Zie fysiekvoorkomen van Wegdeel.
+
 ### groenvoorziening
 
 **Definitie**
@@ -319,6 +431,10 @@ Terreindeel met aangelegde beplanting, meestal gras, heesters of struiken.
 **Verplicht?**
 
 Ja, verplichte inhoud BGT.
+
+**Voorbeeld**
+
+Zie fysiekvoorkomen van BegroeidTerreindeel.
 
 #### bosplantsoen
 
@@ -333,6 +449,10 @@ zich van heesters omdat de sierkenmerken niet voorop staan.
 
 Nee, optionele inhoud IMGeo.
 
+**Voorbeeld**
+
+Zie fysiekvoorkomen van BegroeidTerreindeel.
+
 #### gras- en kruidachtigen
 
 **Definitie**
@@ -342,6 +462,10 @@ Nee, optionele inhoud IMGeo.
 **Verplicht?**
 
 Nee, optionele inhoud IMGeo.
+
+**Voorbeeld**
+
+Zie fysiekvoorkomen van BegroeidTerreindeel.
 
 #### planten
 
@@ -354,6 +478,10 @@ ruimte.
 
 Nee, optionele inhoud IMGeo.
 
+**Voorbeeld**
+
+Zie fysiekvoorkomen van BegroeidTerreindeel.
+
 #### struikrozen
 
 **Definitie**
@@ -364,6 +492,10 @@ groeiende rozen.
 **Verplicht?**
 
 Nee, optionele inhoud IMGeo.
+
+**Voorbeeld**
+
+Zie fysiekvoorkomen van BegroeidTerreindeel.
 
 #### heesters
 
@@ -379,6 +511,10 @@ gewassen is meer dan 50% van de totale oppervlakte van het vak.
 
 Nee, optionele inhoud IMGeo.
 
+**Voorbeeld**
+
+Zie fysiekvoorkomen van BegroeidTerreindeel.
+
 #### bodembedekkers
 
 **Definitie**
@@ -388,3 +524,7 @@ Beheerde beplanting van groenvak in de openbare ruimte, zijnde bodembedekkers.
 **Verplicht?**
 
 Nee, optionele inhoud IMGeo.
+
+**Voorbeeld**
+
+Zie fysiekvoorkomen van BegroeidTerreindeel.
