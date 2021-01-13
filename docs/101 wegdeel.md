@@ -12,15 +12,14 @@ inwinningsregels
 
 ### BGT
 
->   Bron: [Gegevenscatalogus BGT
->   1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-wegdeel)
+>   Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-wegdeel)
 >
 >   #### Indeling
 >
 >   Om de wegdelen in te delen wordt een ordeningsprincipe gehanteerd. De
 >   verzameling wegdelen wordt ingedeeld naar de functie van het wegdeel en naar
 >   het fysieke voorkomen.
-
+>
 >   Het attribuut fysiek voorkomen geldt voor het gehele wegdeel. Een overgang
 >   van fysiek voorkomen is dus altijd ook een grens tussen twee wegdelen. Het
 >   gaat hierbij over het voorkomen waarmee het wegdeel overwegend is bedekt.
@@ -32,7 +31,7 @@ inwinningsregels
 >   Bestrate gedeelten in voor- en achtertuinen van panden worden beschouwd als
 >   onderdeel van het erf (onbegroeid terreindeel) en worden niet nader
 >   ingewonnen.
-
+>
 >   Brandgangen, met een openbaar karakter en waarvan de breedte \>0,90 m
 >   bedraagt, worden opgenomen tot de bebouwingslijn van gebouwen als wegdeel
 >   type voetpad. Brandgangen met een ontsluitingsfunctie van kennelijk openbaar
