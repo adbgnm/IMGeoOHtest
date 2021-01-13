@@ -11,8 +11,7 @@ Inwinningsregels
 
 ### BGT
 
-Bron: [Gegevenscatalogus BGT
-1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-overigbouwwerk)
+Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-overigbouwwerk)
 
 #### Regels voor opname
 
@@ -35,8 +34,7 @@ Het afdak van de overkapping is eventueel IMGeo inhoud.
 
 ### IMGeo
 
-Bron: [Gegevenscatalogus IMGeo
-2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#overig-bouwwerk)
+Bron: [Gegevenscatalogus IMGeo 2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#overig-bouwwerk)
 
 Bunkers, voedersilo’s en schuren zijn geen BGT inhoud, maar kunnen wel in IMGeo
 als overig bouwwerk worden opgenomen.
