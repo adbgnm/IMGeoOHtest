@@ -9,13 +9,12 @@ Kleinste functioneel onafhankelijk stukje water met gelijkblijvende, homogene ei
 
 ### BGT
 
->   Bron: [Gegevenscatalogus BGT
->   1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-waterdeel-ondersteunendwaterdeel)
->
+Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-waterdeel-ondersteunendwaterdeel)
+
 >   De volgende paragrafen beschrijven op welke wijze land en water zijn
 >   gescheiden in de BGT.
 >
->   **Algemeen**
+>   #### Algemeen
 >
 >   De BGT kent vier typen waterdeel: · zee; · waterloop; · watervlakte; ·
 >   greppel, droge sloot.
@@ -47,7 +46,7 @@ Kleinste functioneel onafhankelijk stukje water met gelijkblijvende, homogene ei
 >   voorkomt, in de beschreven situaties aangevuld met niet of niet-altijd
 >   zichtbare topografische begrenzingen.
 >
->   **Noordzee**
+>   #### Noordzee
 >
 >   Voor de begrenzing van terrein en water langs de Noordzee gebruikt de BGT de
 >   UNCLOS-basislijn. Deze basislijn valt onder verantwoording van de Dienst der
@@ -68,7 +67,7 @@ Kleinste functioneel onafhankelijk stukje water met gelijkblijvende, homogene ei
 >   Nieuwe Waterweg en Waddenzee, dan vormt de basislijn de begrenzing van dat
 >   waterdeel met de Noordzee.
 >
->   **Actualiteit**
+>   #### Actualiteit
 >
 >   Een of enkele keren per jaar publiceert de Dienst der Hydrografie een nieuwe
 >   UNCLOS-basislijn. De dienst maakt gebruikers attent op deze wijzigingen,
@@ -76,7 +75,7 @@ Kleinste functioneel onafhankelijk stukje water met gelijkblijvende, homogene ei
 >   website](https://www.defensie.nl/onderwerpen/hydrografie/) en via een
 >   mailing per e-mail.
 >
->   **Strand**
+>   #### Strand
 >
 >   Langs de Noordzee bezit het onbegroeid terreindeel grenzend aan de basislijn
 >   het fysiek voorkomen ‘zand’.
@@ -87,7 +86,7 @@ Kleinste functioneel onafhankelijk stukje water met gelijkblijvende, homogene ei
 >   zoals bij de Hondsbossche Zeewering, bestaat de begrenzing uit kademuur of
 >   walbescherming.
 >
->   **Waddenzee en Zuidwestelijke delta**
+>   #### Waddenzee en Zuidwestelijke delta
 >
 >   In deze wateren is altijd een kunstmatig aangelegde waterkering aanwezig in
 >   de vorm van een kademuur of walbescherming. Deze vormen altijd een
@@ -99,7 +98,7 @@ Kleinste functioneel onafhankelijk stukje water met gelijkblijvende, homogene ei
 >   type slik. Ontbreekt het LAT dan vormt de kunstmatige waterkering de
 >   scheiding tussen terrein en water.
 >
->   **Rivieren**
+>   #### Rivieren
 >
 >   In de BGT komt bij rivieren of een begrenzing voor in de vorm van een
 >   kademuur of walbescherming, of een oever. Van nature komt er een variabel
@@ -112,7 +111,7 @@ Kleinste functioneel onafhankelijk stukje water met gelijkblijvende, homogene ei
 >   beschikbaar voor de BGT dan vormt de kunstmatige waterkering de scheiding
 >   tussen terrein en water.
 >
->   **Meren**
+>   #### Meren
 >
 >   Bij meren komen kunstmatig aangelegde waterkeringen voor in de vorm van een
 >   kademuur of walbescherming, soms is er sprake van een oever. Als een
@@ -127,7 +126,7 @@ Kleinste functioneel onafhankelijk stukje water met gelijkblijvende, homogene ei
 >   ondersteunend waterdeel van het type oever. Waar sprake is van meerdere
 >   streefpeilen, wordt uitgegaan van het laagste niveau of ondergrenspeil.
 >
->   **Overige waterlopen en -vlakken**
+>   #### Overige waterlopen en -vlakken
 >
 >   Hier geldt onderstaand stroomdiagram. Als kant water de begrenzing van
 >   objecten vormt, geldt dat dit een presentatie is van het laagst mogelijke
@@ -135,15 +134,13 @@ Kleinste functioneel onafhankelijk stukje water met gelijkblijvende, homogene ei
 >   bovenkant van een herkenbare insteek 1m of meer bedraagt dan ontstaat in de
 >   BGT een ondersteunend waterdeel van het type oever/slootkant.
 >
->   ![](media/90e8671da8cb5b1bb54087d56fa4a146.jpg)
->
->   Stroomdiagram
+>   ![Stroomdiagram waterlopen](media/90e8671da8cb5b1bb54087d56fa4a146.jpg)
+
 
 ### IMGeo
 
->   Bron: [Gegevenscatalogus IMGeo
->   2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#waterdeel-en-waterinrichtingselement)
->
+Bron: [Gegevenscatalogus IMGeo  2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#waterdeel-en-waterinrichtingselement)
+
 >   In IMGeo zijn waterlopen en watervlakten nader te classificeren.
 >
 >   In IMGeo kunnen inrichtingselementen, die op en in het water voorkomen,
