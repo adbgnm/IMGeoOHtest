@@ -12,28 +12,27 @@ Inwinningsregels
 
 ### BGT
 
-Bron: [Gegevenscatalogus BGT
-1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-pand-panddelen)
+Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-pand-panddelen)
 
-#### Regels voor opname
-
+>   #### Regels voor opname
+>
 >   De BGT bevat alleen die objecten die de bestaande situatie in de
 >   werkelijkheid representeren. Uitsluitend panden die in de BAG voorkomen met
 >   de volgende status maken met hun grondvlakgeometrie deel uit van de BGT: •
 >   ‘Bouw gestart’; • ‘Pand in gebruik (niet ingemeten)’; • ‘Pand in gebruik’; •
 >   ‘Sloopvergunning verleend’; • ‘Pand buiten gebruik’.
-
+>
 >   De voorwaarde is wel dat deze panden al zijn ingemeten en/of dat het gaat om
 >   bestaande panden, waarvoor een bouwvergunning is verleend.
-
+>
 >   De grondvlakgeometrie is daar waar de ‘footprint’ van het pand de ondergrond
 >   raakt (rh = 0).
-
+>
 >   Voor panden die in hun geheel boven water liggen, bijvoorbeeld een
 >   brugwachtershuis dat aan een brug hangt, geldt dat dit pand in de BGT
 >   voorkomt met een relatieve hoogte (rh) \> 0, in ieder geval ligt het hoger
 >   dan het water waar het zich boven bevindt.
-
+>
 >   Uitstulpingen in gevels, zoals steunberen, behoren tot de pandgeometrie als
 >   de afmetingen groter zijn dan 30x30cm. Als zij kleiner zijn, worden zij niet
 >   opgenomen (generalisatie). Als zich op de hoeken van een gebouw
@@ -46,7 +45,7 @@ Bron: [Gegevenscatalogus BGT
 >   (overbouw) van een pand behoren tot de grondvlakgeometrie als de kleinste
 >   afmeting (rechthoekzijde of middellijn) op het grondvlak meer dan 30 cm
 >   bedraagt.
-
+>
 >   Aandachtspunten Voor veel panden is de grondvlakgeometrie overgenomen door
 >   de BAG als geometrie voor de buitenomtrek van het pand omdat deze
 >   geometrieën identiek zijn, met inachtneming van de in vorige paragraaf
@@ -279,9 +278,8 @@ Maaiveld van huis en garage is BGT-geometrie.
 De overbouw onder carport is BAG-geometrie. De carport zelf is geen BAG of
 BGT-inhoud en kan eventueel worden geclassificeerd als IMGeo-inhoud.
 
-| [./media/image27.jpeg](./media/image27.jpeg) | Deze carport is geen inhoud voor de BAG of BGT, het vormt immers geen onderdeel voor pand of vbo. Eventueel kan de luifel worden geclassificeerd als plustopografie in IMGeo. |
-|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
+![](./media/image27.jpeg) 
+Deze carport is geen inhoud voor de BAG of BGT, het vormt immers geen onderdeel voor pand of vbo. Eventueel kan de luifel worden geclassificeerd als plustopografie in IMGeo.
 
 ![](media/b8b7e94537201bda850d66665fd5958f.jpg)
 
@@ -314,24 +312,12 @@ elk een deel van de verdieping liggen.
 
 De geometrie op maaiveld is:
 
-![C:\\..\\krijte001\\Local Settings\\Documents and Settings\\DOCUME\~1\\bbosmans\\LOCALS\~1\\Temp\\GW}00011.BMP](media/d0845a2f8f305be7aeb0eaa5a1f6dd73.png)
-
-C:\\..\\krijte001\\Local Settings\\Documents and
-Settings\\DOCUME\~1\\bbosmans\\LOCALS\~1\\Temp\\GW}00011.BMP
-
-C:\\..\\krijte001\\Local Settings\\Documents and
-Settings\\DOCUME\~1\\bbosmans\\LOCALS\~1\\Temp\\GW}00011.BMP
+![](media/d0845a2f8f305be7aeb0eaa5a1f6dd73.png)
 
 De situatie op verdieping vormt de BAG-geometrie omdat dit voor elke woning
 buiten de geometrie van het maaiveld ligt:
 
-![C:\\..\\krijte001\\Local Settings\\Documents and Settings\\DOCUME\~1\\bbosmans\\LOCALS\~1\\Temp\\GW}00012.BMP](media/c803503ec2edb04a9ab40a4a5c99af35.png)
-
-C:\\..\\krijte001\\Local Settings\\Documents and
-Settings\\DOCUME\~1\\bbosmans\\LOCALS\~1\\Temp\\GW}00012.BMP
-
-C:\\..\\krijte001\\Local Settings\\Documents and
-Settings\\DOCUME\~1\\bbosmans\\LOCALS\~1\\Temp\\GW}00012.BMP
+![](media/c803503ec2edb04a9ab40a4a5c99af35.png)
 
 #### Luifels, overkappingen, overige bouwwerken
 
@@ -367,9 +353,8 @@ IMGeo.
 
 Hier geldt hetzelfde als bij voorgaande voorbeelden.
 
-| [./media/image43.jpeg](./media/image43.jpeg) | Dit is de luifel van de entree van een pand, zijnde winkelcentrum. De luifel wordt eventueel geclassificeerd als plustopografie in IMGeo. De bij de luifel horende pilaar is BGT inhoud wanneer \> 0,30 x 0,30 m of \> ∅ 0,30 m. |
-|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
+![](./media/image43.jpeg)
+Dit is de luifel van de entree van een pand, zijnde winkelcentrum. De luifel wordt eventueel geclassificeerd als plustopografie in IMGeo. De bij de luifel horende pilaar is BGT inhoud wanneer \> 0,30 x 0,30 m of \> ∅ 0,30 m.
 
 ![](media/33fb1bd9a8c2f599d43c8b76faa34851.jpg)
 
@@ -481,9 +466,9 @@ of telecomkast of elektrakast of gaskast of rioolkast).
 
 #### muren
 
-![muur](media/e17a057f236a5072666530a107d9a3d1.jpg)
+![](media/e17a057f236a5072666530a107d9a3d1.jpg)
 
-![muur](media/2e767f5bed2284f224e3986fce6a1247.jpg)
+![](media/2e767f5bed2284f224e3986fce6a1247.jpg)
 
 Deze foto’s tonen gazen bakken met steenbrokken, zoals in bergachtige streken
 wordt toegepast als versteviging van bergwanden en lawinekering, hier in gebruik
@@ -492,15 +477,6 @@ scheiding tussen twee objecten vormt.
 
 ### IMGeo
 
-Bron: [Gegevenscatalogus IMGeo
-2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#gebouwinstallatie)
+Bron: [Gegevenscatalogus IMGeo 2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#gebouwinstallatie)
 
-**Pand en gebouwinstallatie**
-
-Uitstulpingen in gevels van panden zijn alleen BGT inhoud als ze groter zijn dan
-30 cm.
-
-Kleinere uitstulpingen, kunnen, indien ze aan de definitie van het objecttype
-Gebouwinstallatie voldoen, in IMGeo worden opgenomen. Gebouwinstallaties zijn
-aan het pand verbonden toegangstrappen, luifels en bordessen. Overige
-uitstulpingen kleiner dan 30 cm worden niet in IMGeo opgenomen.
+> Gebouwinstallaties zijn aan het pand verbonden toegangstrappen, luifels en bordessen. 
