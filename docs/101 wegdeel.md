@@ -1,6 +1,6 @@
 ---
 title: Wegdeel
-permalink: /wegdeeltje/
+permalink: /:title/
 ---
 
 # Wegdeel
