@@ -16,10 +16,8 @@ Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus
 >
 >   #### Algemeen
 >
->   De BGT kent vier typen waterdeel: · zee; · waterloop; · watervlakte; ·
->   greppel, droge sloot.
->
->   En twee typen ondersteunend waterdeel: · oever, slootkant; · slik.
+>   De BGT kent vier typen waterdeel: zee; waterloop; watervlakte; greppel, droge sloot.
+>   En twee typen ondersteunend waterdeel: oever, slootkant; slik.
 >
 >   De kruinlijngeometrie wordt bij het ondersteunend waterdeel niet opgenomen.
 >   Impliciet is de – niet-waterbegrenzing – van een oever altijd de hoogste
