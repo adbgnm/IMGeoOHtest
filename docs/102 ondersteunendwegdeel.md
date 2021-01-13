@@ -1,5 +1,7 @@
 # OndersteunendWegdeel
 
+**Definitie**
+
 Een deel van de weg dat niet primair bedoeld is voor gebruik door het verkeer.
 
 ## inwinningsregels
@@ -56,6 +58,8 @@ Bron: [Gegevenscatalogus IMGeo 2.2](https://docs.geostandaarden.nl/imgeo/catalog
 >   grasklinkers.
 
 ## functie
+
+**Definitie**
 
 Specificatie van de functie van het ondersteunend wegdeel.
 
@@ -143,8 +147,11 @@ A: Wegdeel, Rijbaan: Lokale weg, Gesloten verharding.
 
 ## fysiekvoorkomen
 
+**Definitie**
+
 Mate waarin het ondersteunend wegdeel al of niet verhard is.
 
+**Toelichting**
 In IMGeo kunnen bij ondersteunend wegdeel alle fysieke voorkomens worden
 toegekend zoals bij wegdeel of een deel van de plustypen van begroeid
 terreindeel groenvoorziening.
