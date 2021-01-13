@@ -4,6 +4,8 @@ description: Praktijkhandleiding voor toepassing van de BGT|IMGeo standaarden bi
  
 plugins:
   - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 remote_theme: rundocs/jekyll-rtd-theme
 
