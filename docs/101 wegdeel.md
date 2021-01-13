@@ -323,17 +323,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-![verbindingsweg](media/e1c5320cab7cf3fc60fffa425a57418f.jpg)
-
-verbindingsweg
-
-verbindingsweg
-
-verbindingsweg
-
-verbindingsweg
-
-verbindingsweg
+![](media/e1c5320cab7cf3fc60fffa425a57418f.jpg)
 
 A, B, C en D zijn in de BGT wegdelen autosnelweg, autoweg of regionale weg, in
 IMGeo kunnen ze tevens worden geclassificeerd als: verbindingsweg
@@ -398,7 +388,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Situatie: zie 3.1.1
+Zie verbindingsweg bij Wegdeel.
 
 #### calamiteitendoorsteek
 
@@ -460,7 +450,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Situatie zie 3.1.1.
+Zie verbindingsweg bij Wegdeel.
 
 #### verkeersdrempel
 
@@ -475,7 +465,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Situatie zie 3.1.8.
+Zie verkeersdrempel bij Wegdeel.
 
 ### rijbaan lokale weg
 
@@ -641,17 +631,7 @@ B en C zijn voor de BGT beide: Begroeid terreindeel: Groenvoorziening.
 
 C is voor IMGeo: Vegetatieobject: Haag.
 
-![2325b](media/511d5264a64bfefc0c0e2ba05b00420d.jpg)
-
-2325b
-
-2325b
-
-2325b
-
-2325b
-
-2325b
+![](media/511d5264a64bfefc0c0e2ba05b00420d.jpg)
 
 B:
 
@@ -665,17 +645,7 @@ A: Onbegroeid terreindeel: Open verharding.
 
 C en D: Scheiding, Muur.
 
-![dsc_2330](media/b8edd1f50f5bd873ede0b97d10c109e3.jpg)
-
-dsc_2330
-
-dsc_2330
-
-dsc_2330
-
-dsc_2330
-
-dsc_2330
+![](media/b8edd1f50f5bd873ede0b97d10c109e3.jpg)
 
 Plantvak met boomspiegel is geen BGT inhoud want het is \< 5 m2, A loopt door.
 
