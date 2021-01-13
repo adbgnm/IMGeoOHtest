@@ -1,26 +1,26 @@
-Spoor
-=====
+# Spoor
+
+**Definitie**
 
 De as van het spoor, dat wil zeggen het midden van twee stalen staven op een
 onderling vaste afstand, waarover trein, tram, of sneltram rijdt.
 
-inwinningsregels
-----------------
+## inwinningsregels
 
 ### BGT
 
->   Bron: [Gegevenscatalogus BGT
->   1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-spoor)
+Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-spoor)
 
 >   **Regels voor opname**
-
+>
 >   Het midden tussen de twee staven van een spoor, de as van het spoor, wordt
 >   als lijn vastgelegd.
-
+>
 >   De as van elk afzonderlijk spoor wordt weergegeven.
 
-functie
--------
+## functie
+
+**Definitie**
 
 Specificatie van het soort gebruik van het spoor.
 
