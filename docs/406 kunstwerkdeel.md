@@ -6,15 +6,15 @@ Kunstwerkdeel
 Onderdeel van een civiel-technisch werk voor de infrastructuur van wegen, water,
 spoorbanen, waterkeringen en/of leidingen.
 
-Inwinningsregels 
------------------
+Inwinningsregels
+----------------
 
 ### BGT
 
 Bron: [Gegevenscatalogus BGT
 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-kunstwerkdeel)
 
-#### Regels voor opname
+>   **Regels voor opname**
 
 >   Een kunstwerkdeel wordt opgenomen met de buitenste begrenzing die is bepaald
 >   door karakteristieke punten.
@@ -22,7 +22,7 @@ Bron: [Gegevenscatalogus BGT
 >   Als de breedte van het kunstwerkdeel \<30cm is, wordt het object als lijn
 >   vastgelegd.
 
-#### Aandachtspunten
+>   **Aandachtspunten**
 
 >   Kunstwerkdelen worden getypeerd naar het geheel waarvan zij deel uitmaken.
 
@@ -33,7 +33,7 @@ Bron: [Gegevenscatalogus BGT
 >   Het kunstwerkdeel erft het attribuut relatieve hoogteligging van het object
 >   waarop het staat of ligt.
 
-#### Hoogspanningsmast
+>   Hoogspanningsmast
 
 >   Alleen masten van het type hoogspanningsmast zijn onderdeel van de BGT. De
 >   voet van de mast wordt als multipunt of multivlak vastgelegd.
@@ -46,7 +46,7 @@ Bron: [Gegevenscatalogus BGT
 >   mastvoet als multivlak van de hoogspanningsmast geclassificeerd wanneer de
 >   afmetingen van de mastvoet (rechthoekzijde of middellijn) ≥ 0,30 m bedraagt.
 
-#### Gemaaldelen, sluisdeur, stuw
+>   **Gemaaldelen, sluisdeur, stuw**
 
 >   Bij een gemaal worden de eventueel aanwezige bakken waar het water door
 >   wordt geleid als gemaaldeel opgenomen in de BGT. De eventuele overige
@@ -187,6 +187,8 @@ B: spoor, trein.
 
 ![DSCN2122](media/45c8855503929f2a34e4f81e65854319.jpg)
 
+DSCN2122
+
 Dit is geen perron.
 
 Perrons worden alleen opgenomen als ze langs een spoor van trein of sneltram
@@ -266,6 +268,8 @@ Ja, verplichte inhoud BGT.
 
 ![DSC01139](media/e4422ed38eeae05703cceea8dd7b557e.jpg)
 
+DSC01139
+
 B:
 
 | **Kunstwerkdeel**      | **Attribuutwaarde** | **Opmerkingen** |
@@ -274,6 +278,8 @@ B:
 | relatieveHoogteligging | 1                   |                 |
 
 ![jd19](media/8435ac1d299e02d84261504ed5ee6471.jpg)
+
+jd19
 
 Drijvende steigers zijn geen BGT inhoud.
 
@@ -410,6 +416,8 @@ Nee, optionele inhoud IMGeo.
 
 ![Vispassage](media/68ddcb8ad688516f1fc9dc7efc1d6ead.jpg)
 
+Vispassage
+
 | **Kunstwerkdeel**      | **Attribuutwaarde** | **Opmerkingen** |
 |------------------------|---------------------|-----------------|
 | type                   | vispassage          |                 |
@@ -428,6 +436,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![bodemval](media/2680e1c8e060812d07523bb9c0dd9daf.jpg)
+
+bodemval
 
 | **Kunstwerkdeel**      | **Attribuutwaarde** | **Opmerkingen** |
 |------------------------|---------------------|-----------------|
@@ -449,6 +459,8 @@ Nee, optionele inhoud IMGeo.
 
 ![Coupure](media/ca87f9d0154fecde7f1a6c84bd189360.jpg)
 
+Coupure
+
 | **Kunstwerkdeel**      | **Attribuutwaarde** | **Opmerkingen**                                                                                                                                                                                                                |
 |------------------------|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | type                   | coupure             |                                                                                                                                                                                                                                |
@@ -467,6 +479,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![Kunstwerkdeel ponton](media/8f5d1bbad283c43b5885b4fc183365d5.jpg)
+
+Kunstwerkdeel ponton
 
 | **Kunstwerkdeel**      | **Attribuutwaarde** | **Opmerkingen** |
 |------------------------|---------------------|-----------------|
@@ -487,6 +501,8 @@ Nee, optionele inhoud IMGeo.
 **Voorbeeld**
 
 ![Kunstwerkdeel voorde](media/cb9d1e60a2075b824b8abcad766696e7.jpg)
+
+Kunstwerkdeel voorde
 
 | **Kunstwerkdeel**      | **Attribuutwaarde** | **Opmerkingen** |
 |------------------------|---------------------|-----------------|
