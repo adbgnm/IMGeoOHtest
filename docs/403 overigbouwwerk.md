@@ -11,33 +11,36 @@ Inwinningsregels
 
 ### BGT
 
-Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-overigbouwwerk)
+Bron: [Gegevenscatalogus BGT
+1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-overigbouwwerk)
 
-#### Regels voor opname
+>   **Regels voor opname**
 
-De geometrie is waar het grondvlak van het overig bouwwerk de ondergrond raakt.
+>   De geometrie is waar het grondvlak van het overig bouwwerk de ondergrond
+>   raakt.
 
-#### Aandachtspunten
+>   **Aandachtspunten**
 
-Bassins en bezinkbakken bij zuiveringsinstallaties zijn geen waterdelen, maar
-worden geclassificeerd als overig bouwwerk.
+>   Bassins en bezinkbakken bij zuiveringsinstallaties zijn geen waterdelen,
+>   maar worden geclassificeerd als overig bouwwerk.
 
-Zwembaden worden als type bassin vastgelegd.
+>   Zwembaden worden als type bassin vastgelegd.
 
-Alleen bovengrondse opslagtanks worden opgenomen.
+>   Alleen bovengrondse opslagtanks worden opgenomen.
 
-Bij overkappingen wordt de grondvlakgeometrie van de pilaren (footprint) waarop
-de overkapping rust geregistreerd wanneer de afmetingen (rechthoekzijde of
-middellijn) ≥ 0,30 m bedraagt.
+>   Bij overkappingen wordt de grondvlakgeometrie van de pilaren (footprint)
+>   waarop de overkapping rust geregistreerd wanneer de afmetingen
+>   (rechthoekzijde of middellijn) ≥ 0,30 m bedraagt.
 
-Het afdak van de overkapping is eventueel IMGeo inhoud.
+>   Het afdak van de overkapping is eventueel IMGeo inhoud.
 
 ### IMGeo
 
-Bron: [Gegevenscatalogus IMGeo 2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#overig-bouwwerk)
+Bron: [Gegevenscatalogus IMGeo
+2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#overig-bouwwerk)
 
-Bunkers, voedersilo’s en schuren zijn geen BGT inhoud, maar kunnen wel in IMGeo
-als overig bouwwerk worden opgenomen.
+>   Bunkers, voedersilo’s en schuren zijn geen BGT inhoud, maar kunnen wel in
+>   IMGeo als overig bouwwerk worden opgenomen.
 
 type
 ----
