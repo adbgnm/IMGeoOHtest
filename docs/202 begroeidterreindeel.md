@@ -10,16 +10,15 @@ Inwinningsregels
 
 ### BGT
 
->   Bron: [Gegevenscatalogus BGT
->   1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-begroeidterreindeel)
+Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-begroeidterreindeel)
 
->   **Indeling**
-
+>   #### Indeling
+>
 >   Deze terreindelen worden eveneens ingedeeld naar fysiek voorkomen en ook
 >   hier wordt, indien noodzakelijk, een kruinlijn opgenomen.
-
->   **Regels voor opname**
-
+>
+>   #### Regels voor opname
+>
 >   De kruinlijn moet bij het begroeid terreindeel worden opgenomen indien de
 >   helling een verhouding heeft van verticaal:horizontaal van 1:4 of steiler en
 >   het hoogteverschil \>1m bedraagt. Een van de zijden van het begroeid
@@ -28,34 +27,32 @@ Inwinningsregels
 >   ter plaatse. Het gedeelte van een object dat op het talud ligt is altijd een
 >   apart begrensd vlak ten opzichte van het deel van het object dat niet op het
 >   talud ligt.
-
->   **Bos**
-
+>
+>   #### Bos
+>
 >   Om een terreindeel als loofbos af te bakenen dient het minimimum percentage
 >   loofboom groter dan of gelijk aan 90% te zijn.
-
+>
 >   Om een terreindeel als naaldbos af te bakenen dient het minimum percentage
 >   naaldboom groter dan of gelijk aan 90 % te zijn.
-
+>
 >   Om een terreindeel als gemengd bos af te bakenen dient het maximum
 >   percentage naaldboom of het maximum percentage loofboom kleiner dan 90% te
 >   zijn.
-
+>
 >   Bij deze percentages worden het eventueel aanwezige onderhout en smalle
 >   stroken loof- en of naaldbos gelegen naast of als uitloper van het bos
 >   buiten beschouwing gelaten.
 
 ### IMGeo
 
->   Bron: [Gegevenscatalogus IMGeo
->   2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#begroeidterreindeel-0)
+Bron: [Gegevenscatalogus IMGeo 2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#begroeidterreindeel-0)
 
 >   In IMGeo kunnen begroeide terreindelen desgewenst nader worden ingedeeld
 >   naar fysiek voorkomen. Er zijn nadere detailleringen voor
 >   groenvoorzieningen, bouwland, fruitteelt, loofbos en duin.
 
-fysiekvoorkomen
----------------
+## fysiekvoorkomen
 
 Classificatie van het vegetatiedek, ingedeeld naar soort vegetatie.
 
@@ -74,9 +71,8 @@ Nee, optionele inhoud IMGeo.
 
 ![](media/da0203b8b41d6b7518fa8b0bbfe37ac6.jpg)
 
-![P1060140](media/68dae68f25cab2bf7b8038c310a4a017.jpg)
+![](media/68dae68f25cab2bf7b8038c310a4a017.jpg)
 
-P1060140
 
 A:
 
@@ -203,11 +199,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-![P1060155](media/887f76e49a4970ea9a70b7cdf126dcc9.jpg)
-
-P1060155
-
-P1060155
+![](media/887f76e49a4970ea9a70b7cdf126dcc9.jpg)
 
 B:
 
@@ -613,11 +605,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-![dsc_2326](media/3688fe30b282aecff11723b622c81384.jpg)
-
-dsc_2326
-
-dsc_2326
+![](media/3688fe30b282aecff11723b622c81384.jpg)
 
 C en D (afzonderlijke objecten):
 
@@ -628,11 +616,7 @@ C en D (afzonderlijke objecten):
 
 A en B: wegdeel, voetpad, open verharding.
 
-![dsc_2321](media/0bd657e599644ffdbdeeb6e1246afb3a.jpg)
-
-dsc_2321
-
-dsc_2321
+![](media/0bd657e599644ffdbdeeb6e1246afb3a.jpg)
 
 B:
 
