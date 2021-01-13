@@ -1,5 +1,8 @@
-Inleiding
-=========
+[./media/image1.png](./media/image1.png)
+========================================
+
+IMGeo objectenhandboek
+======================
 
 Deze versie
 -----------
