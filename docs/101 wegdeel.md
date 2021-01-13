@@ -1,7 +1,5 @@
 ---
 title: Wegdeel
-crumbtitle: Wegdeel
-permalink: /objectenhandboek/:title/
 ---
 
 # Wegdeel
