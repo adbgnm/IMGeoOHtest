@@ -160,6 +160,8 @@ Bron: [Gegevenscatalogus IMGeo  2.2](https://docs.geostandaarden.nl/imgeo/catalo
 
 ## type
 
+**Definitie**
+
 Specificatie van het soort Water.
 
 ### zee
