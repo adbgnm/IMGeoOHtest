@@ -54,13 +54,12 @@ Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus
 
 ### IMGeo
 
->   Bron: [Gegevenscatalogus IMGeo
->   2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#onbegroeidterreindeel-0)
+Bron: [Gegevenscatalogus IMGeo 2.2](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#onbegroeidterreindeel-0)
 
 >   Om de onbegroeide terreindelen in te delen is het fysieke voorkomen
 >   bepalend. Indien noodzakelijk wordt het BGT attribuut kruinlijngeometrie
 >   opgenomen.
-
+>
 >   Uitsparingen voor stedelijk groen in onbegroeid terrein \< 5 m2 kunnen IMGeo
 >   inhoud zijn. Men mag deze delen zo afbakenen als voor beheer gewenst is.
 
@@ -127,7 +126,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Foto zie 3.1.10, wegdeel, asfalt.
+Zie wegdeel, asfalt.
 
 #### cementbeton
 
@@ -141,7 +140,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Foto zie 3.1.11, wegdeel, cementbeton.
+Zie wegdeel, cementbeton.
 
 #### kunststof
 
@@ -154,8 +153,10 @@ kunststof toplagen op atletiekbanen.
 
 Nee, optionele inhoud IMGeo.
 
-HTML niet gevonden::
-example/html/onbegroeidterreindeel-gesloten-verharding-kunststof.html
+**Voorbeeld**
+
+
+
 
 ### open verharding
 
@@ -202,7 +203,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Foto zie 3.1.12, wegdeel, betonstraatstenen.
+Zie wegdeel, betonstraatstenen.
 
 #### gebakken klinkers
 
@@ -217,7 +218,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Foto zie 3.1.13, wegdeel, gebakken klinkers.
+Zie wegdeel, gebakken klinkers.
 
 #### tegels
 
@@ -232,7 +233,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Foto zie 3.1.14, wegdeel, tegels.
+Zie wegdeel, tegels.
 
 #### sierbestrating
 
@@ -247,7 +248,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Foto zie 3.1.15, wegdeel, sierbestrating.
+Zie wegdeel, sierbestrating.
 
 #### beton element
 
@@ -262,7 +263,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Foto zie 3.1.16, wegdeel, sierbestrating.
+Zie wegdeel, sierbestrating.
 
 ### half verhard
 
@@ -277,7 +278,7 @@ Ja, verplichte inhoud BGT.
 
 **Voorbeeld**
 
-Foto zie 2.1.19, wegdeel, half verhard.
+Zie wegdeel, half verhard.
 
 | **OnbegroeidTerreindeel** | **Attribuutwaarde** | **Opmerkingen** |
 |---------------------------|---------------------|-----------------|
@@ -298,7 +299,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Foto zie 3.1.17 grasklinkers
+Zie wegdeel, grasklinkers
 
 #### schelpen
 
@@ -312,7 +313,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Foto zie 3.1.18, wegdeel, schelpen.
+Zie wegdeel, schelpen.
 
 #### puin
 
@@ -328,7 +329,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Foto zie 3.1.19, wegdeel, puin.
+Zie wegdeel, puin.
 
 #### grind
 
@@ -343,7 +344,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Foto zie 3.1.20, wegdeel, grind.
+Zie wegdeel, grind.
 
 #### gravel
 
@@ -358,7 +359,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Foto zie 3.1.21, wegdeel, gravel.
+Zie wegdeel, gravel.
 
 ### onverhard
 
@@ -398,7 +399,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Foto zie 3.1.22, wegdeel, boomschors.
+Zie wegdeel, boomschors.
 
 #### zand
 
@@ -412,7 +413,7 @@ Nee, optionele inhoud IMGeo.
 
 **Voorbeeld**
 
-Foto zie 3.1.23, wegdeel, zand.
+Zie wegdeel, zand.
 
 ### zand
 
