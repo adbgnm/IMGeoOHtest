@@ -1,8 +1,6 @@
 Wegdeel
 =======
 
-**Definitie**
-
 Kleinste functioneel onafhankelijk stukje van een NEN 3610 Weg met
 gelijkblijvende, homogene eigenschappen en relaties en primair bedoeld voor
 gebruik door weg-, spoor- en vliegverkeer te land.
@@ -157,8 +155,6 @@ Bron: [Gegevenscatalogus IMGeo 2.2](https://docs.geostandaarden.nl/imgeo/catalog
 >   kunnen worden opgenomen als IMGeo inhoud.
 
 ## functie
-
-**Definitie**
 
 Specificatie van het hoofdgebruiksdoel van het wegdeel.
 
@@ -887,10 +883,7 @@ A:
 
 De perken met groenvoorziening zijn \< 5m2 en daarom eventueel IMGeo inhoud.
 
-fysieke voorkomen
------------------
-
-**Definitie**
+## fysiekvoorkomen
 
 Mate waarin het wegdeel al of niet verhard is.
 
