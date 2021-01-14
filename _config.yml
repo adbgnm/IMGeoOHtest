@@ -12,6 +12,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   
+theme: jekyll-theme-minimal
 ## remote method ##
 # remote_theme: rundocs/jekyll-rtd-theme
 
