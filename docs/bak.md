@@ -1,5 +1,7 @@
 ---
+layout: default
 breadcrumb_text: Objecttype BAK
+permalink: /objecttype-bak
 ---
 
 Bak
