@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: default
 title: bak
 permalink: /:title/
 sort: 1
