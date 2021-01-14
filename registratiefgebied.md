@@ -1,3 +1,8 @@
+---
+permalink: /registratiefgebied
+sort: 32
+---
+
 Registratief gebied
 ===================
 
