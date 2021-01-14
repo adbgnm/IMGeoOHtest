@@ -1,7 +1,7 @@
 ---
 title: IMGeo-object
 permalink: /imgeo-object
-weight: 1
+sort: 1
 ---
 
 # IMGeo-object
