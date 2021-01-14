@@ -1,3 +1,8 @@
+---
+permalink: /overbruggingsdeel
+sort: 12
+---
+
 Overbruggingsdeel
 =================
 
