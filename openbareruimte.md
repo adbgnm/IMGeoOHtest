@@ -1,3 +1,8 @@
+---
+permalink: /openbareruimte
+sort: 33
+---
+
 OpenbareRuimte
 ==============
 
