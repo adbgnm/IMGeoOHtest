@@ -1,10 +1,10 @@
 ---
-title: Ondersteunend Wegdeel
+title: Ondersteunend wegdeel
 permalink: /ondersteunendwegdeel
 sort: 3
 ---
 
-# OndersteunendWegdeel
+# Ondersteunend wegdeel
 
 **Definitie**
 
