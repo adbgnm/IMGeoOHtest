@@ -1,3 +1,8 @@
+---
+permalink: /put
+sort: 25
+---
+
 Put
 ===
 
