@@ -10,7 +10,7 @@ Scheiding
 
 Kunstmatig obstakel met een werende functie.
 
-Inwinningsregels
+inwinningsregels
 ----------------
 
 ### BGT
