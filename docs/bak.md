@@ -1,6 +1,5 @@
 ---
 layout: page
-breadcrumb-text: Objecttype BAK
 permalink: /objecttype-bak
 ---
 
