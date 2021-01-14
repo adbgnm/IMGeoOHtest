@@ -1,3 +1,8 @@
+---
+permalink: /stadsdeel
+sort: 35
+---
+
 Stadsdeel
 =========
 
