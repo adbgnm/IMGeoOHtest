@@ -1,6 +1,6 @@
 ---
 title: begroeidterreindeel
-permalink: /objecttype/begroeidterreindeel
+permalink: /objecttype/begroeidterreindeel/
 ---
 
 
