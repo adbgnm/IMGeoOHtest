@@ -3,6 +3,14 @@ lang: nl
 description: Praktijkhandleiding voor toepassing van de BGT|IMGeo standaarden bij de objectafbakening
  
 plugins:
+  - jekyll-breadcrumbs
   - jekyll-archives
-
+  - jekyll-default-layout
+  - jekyll-readme-index
+  - jekyll-github-metadata
+  - jekyll-titles-from-headings
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+  
 remote_theme: rundocs/jekyll-rtd-theme
