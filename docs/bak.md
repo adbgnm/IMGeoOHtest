@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /objecttype-bak
+permalink: /objecttype-bak/
 ---
 
 Bak
