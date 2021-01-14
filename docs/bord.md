@@ -1,3 +1,8 @@
+---
+title: bord
+permalink: /bord/
+---
+
 Bord
 ====
 
