@@ -1,6 +1,5 @@
 ---
-title: bak
-permalink: /bak/
+sort: 10
 ---
 
 Bak
