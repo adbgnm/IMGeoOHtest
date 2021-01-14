@@ -640,9 +640,6 @@ B:
 
 A: wegdeel, rijbaan: lokale weg, openverharding.
 
-Objecttype: Waterdeel
----------------------
-
 #### bosplantsoen
 
 **Definitie**
