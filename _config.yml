@@ -10,6 +10,11 @@ readme_index:
 #  remove_originals: false
 #  with_frontmatter: false
 
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+
 exclude:
   - Makefile
   - Gemfile
