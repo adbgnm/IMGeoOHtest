@@ -12,7 +12,7 @@ Een PAND is de kleinste bij de totstandkoming functioneel en
 bouwkundig-constructief zelfstandige eenheid die direct en duurzaam met de aarde
 is verbonden en betreedbaar en afsluitbaar is.
 
-Inwinningsregels
+inwinningsregels
 ----------------
 
 ### BGT
