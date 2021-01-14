@@ -13,39 +13,39 @@ dan niet uit de basisregistratie.
 ```mermaid
 classDiagram
    IMGeo_object <|-- Wegdeel
-   IMGeo_object <|-- Ondersteunend wegdeel
+   IMGeo_object <|-- OndersteunendWegdeel
    IMGeo_object <|-- Spoor
-   IMGeo_object <|-- Onbegroeid terreindeel
-   IMGeo_object <|-- Begroeidterreindeel
+   IMGeo_object <|-- OnbegroeidTerreindeel
+   IMGeo_object <|-- BegroeidTerreindeel
    IMGeo_object <|-- Waterdeel
    IMGeo_object <|-- OndersteunendWaterdeel
    IMGeo_object <|-- Pand
    IMGeo_object <|-- OverigeConstructie
-   IMGeo_object <|-- OverigBouwwerk
+   OverigeConstructie <|-- OverigBouwwerk
    IMGeo_object <|-- Overbruggingsdeel
    IMGeo_object <|-- Tunneldeel
-   IMGeo_object <|-- Kunstwerkdeel
-   IMGeo_object <|-- Scheiding
+   OverigeConstructie <|-- Kunstwerkdeel
+   OverigeConstructie <|-- Scheiding
    IMGeo_object <|-- FunctioneelGebied
    IMGeo_object <|-- GebouwInstallatie
    IMGeo_object <|-- Inrichtingselement
-   IMGeo_object <|-- Bak
-   IMGeo_object <|-- Bord
-   IMGeo_object <|-- Installatie
-   IMGeo_object <|-- Kast
-   IMGeo_object <|-- Mast
-   IMGeo_object <|-- Paal
-   IMGeo_object <|-- Put
-   IMGeo_object <|-- Sensor
-   IMGeo_object <|-- Straatmeubilair
-   IMGeo_object <|-- Waterinrichtingselement
-   IMGeo_object <|-- Weginrichtingselement
+   Inrichtingselement <|-- Bak
+   Inrichtingselement <|-- Bord
+   Inrichtingselement <|-- Installatie
+   Inrichtingselement <|-- Kast
+   Inrichtingselement <|-- Mast
+   Inrichtingselement <|-- Paal
+   Inrichtingselement <|-- Put
+   Inrichtingselement <|-- Sensor
+   Inrichtingselement <|-- Straatmeubilair
+   Inrichtingselement <|-- Waterinrichtingselement
+   Inrichtingselement <|-- Weginrichtingselement
    IMGeo_object <|-- VegetatieObject
    IMGeo_object <|-- OpenbareRuimteLabel
-   IMGeo_object <|-- Registratief gebied
-   IMGeo_object <|-- Buurt
-   IMGeo_object <|-- OpenbareRuimte
-   IMGeo_object <|-- Stadsdeel
-   IMGeo_object <|-- Waterschap
-   IMGeo_object <|-- Wijk
+   IMGeo_object <|-- RegistratiefGebied
+   RegistratiefGebied <|-- Buurt
+   RegistratiefGebied <|-- OpenbareRuimte
+   RegistratiefGebied <|-- Stadsdeel
+   RegistratiefGebied <|-- Waterschap
+   RegistratiefGebied <|-- Wijk
 '''
