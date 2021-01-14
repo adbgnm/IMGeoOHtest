@@ -1,5 +1,7 @@
 ---
-weight: 2
+title: Ondersteunend Wegdeel
+permalink: /ondersteunendwegdeel
+order: 3
 ---
 
 # OndersteunendWegdeel
