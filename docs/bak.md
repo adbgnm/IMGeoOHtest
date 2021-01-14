@@ -1,7 +1,7 @@
 ---
 layout: 
 title: bak
-permalink: /objecttype-bak/
+permalink: /:title/
 sort: 1
 ---
 
