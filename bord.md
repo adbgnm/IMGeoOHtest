@@ -1,4 +1,5 @@
 ---
+permalink: /bord
 sort: 20
 ---
 
