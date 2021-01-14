@@ -1,6 +1,5 @@
 ---
 title: buurt
-permalink: /buurt/
 ---
 
 Buurt
