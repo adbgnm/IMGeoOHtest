@@ -1,3 +1,9 @@
+---
+title: begroeidterreindeel
+permalink: /objecttype/begroeidterreindeel
+---
+
+
 BegroeidTerreindeel
 ===================
 
