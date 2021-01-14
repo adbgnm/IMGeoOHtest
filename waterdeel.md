@@ -1,6 +1,6 @@
 ---
-title: Waterdeel
-order: 1
+permalink: /waterdeel
+sort: 7
 ---
 
 Waterdeel
