@@ -48,4 +48,4 @@ classDiagram
    RegistratiefGebied <|-- Stadsdeel
    RegistratiefGebied <|-- Waterschap
    RegistratiefGebied <|-- Wijk
-'''
+```
