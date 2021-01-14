@@ -1,3 +1,8 @@
+---
+permalink: /sensor
+sort: 26
+---
+
 Sensor
 ======
 
