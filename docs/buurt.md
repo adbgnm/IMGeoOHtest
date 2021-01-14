@@ -1,5 +1,6 @@
 ---
-title: buurt
+title: Buurt
+sort: 35
 ---
 
 Buurt
