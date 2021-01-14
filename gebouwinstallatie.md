@@ -1,3 +1,8 @@
+---
+permalink: /gebouwinstallatie
+sort: 17
+---
+
 GebouwInstallatie
 =================
 
