@@ -39,7 +39,7 @@ B ,C en D: vormen buiten het tunneldeel als ‘zichtbare’ wegdelen BGT-inhoud.
 scheiding, type muur. F en G zijn in de tunnel gelegen wegdelen. De relatieve
 hoogteligging daarvan is hetzelfde als het tunneldeel waarin ze liggen, dus -1.
 
-Inwinningsregels
+inwinningsregels
 ----------------
 
 ### BGT
