@@ -1,5 +1,5 @@
 ---
-title: begroeidterreindeel
+title: Begroeidterreindeel
 permalink: /begroeidterreindeel
 sort: 6
 ---
