@@ -1,6 +1,6 @@
 ---
 layout: default
-breadcrumb_text: Objecttype BAK
+breadcrumb-text: Objecttype BAK
 permalink: /objecttype-bak
 ---
 
