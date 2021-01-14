@@ -1,5 +1,7 @@
 ---
-sort: 1
+title: IMGeo-object
+permalink: /imgeo-object
+weight: 1
 ---
 
 # IMGeo-object
