@@ -1,3 +1,8 @@
+---
+permalink: /waterinrichtingselement
+sort: 29
+---
+
 Weginrichtingselement
 =====================
 
