@@ -11,7 +11,7 @@ Kunstwerkdeel
 Onderdeel van een civiel-technisch werk voor de infrastructuur van wegen, water,
 spoorbanen, waterkeringen en/of leidingen.
 
-Inwinningsregels
+inwinningsregels
 ----------------
 
 ### BGT
