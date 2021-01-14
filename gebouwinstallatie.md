@@ -11,7 +11,7 @@ GebouwInstallatie
 Een component aan de buitenzijde van een gebouw, die het aanzicht van het gebouw
 mede bepaalt.
 
-Inwinningsregels
+inwinningsregels
 ----------------
 
 ### IMGeo
