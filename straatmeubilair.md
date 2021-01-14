@@ -1,3 +1,8 @@
+---
+permalink: /straatmeubilair
+sort: 27
+---
+
 Straatmeubilair
 ===============
 
