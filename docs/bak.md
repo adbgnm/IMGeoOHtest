@@ -1,5 +1,7 @@
 ---
+title: bak
 permalink: /objecttype-bak/
+sort: 1
 ---
 
 Bak
