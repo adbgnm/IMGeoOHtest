@@ -1,5 +1,4 @@
 ---
-title: Spoor
 permalink: /spoor
 sort: 4
 ---
