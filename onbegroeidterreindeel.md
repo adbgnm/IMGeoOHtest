@@ -1,6 +1,5 @@
 ---
-title: Onbegroeid terreindeel
-permalink: / onbegroeidterreindeel
+permalink: /onbegroeidterreindeel
 sort: 5
 ---
 
