@@ -1,6 +1,7 @@
 ---
 title: begroeidterreindeel
-permalink: /objecttype/begroeidterreindeel/
+permalink: /begroeidterreindeel
+sort: 6
 ---
 
 
