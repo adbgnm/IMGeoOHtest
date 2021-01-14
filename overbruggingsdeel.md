@@ -12,7 +12,7 @@ Onderdeel van een beweegbare of vaste verbinding tussen twee punten, die door
 water, een weg of anderszins gescheiden zijn, dat essentieel is voor de
 constructie.
 
-Inwinningsregels
+inwinningsregels
 ----------------
 
 ### BGT
