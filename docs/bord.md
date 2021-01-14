@@ -1,6 +1,5 @@
 ---
-title: bord
-permalink: /bord/
+sort: 20
 ---
 
 Bord
