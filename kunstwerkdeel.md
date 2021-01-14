@@ -1,3 +1,8 @@
+---
+permalink: /kunstwerkdeel
+sort: 14
+---
+
 Kunstwerkdeel
 =============
 
