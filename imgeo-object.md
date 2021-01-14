@@ -1,5 +1,4 @@
 ---
-title: IMGeo-object
 permalink: /imgeo-object
 sort: 1
 ---
