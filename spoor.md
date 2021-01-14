@@ -1,7 +1,7 @@
 ---
 title: Spoor
 permalink: /spoor
-sort: 3
+weight: 3
 ---
 
 # Spoor
