@@ -1,6 +1,7 @@
 ---
 title: Wegdeel
-breadcrumb: wegdeel
+breadcrumb-text: Objecttype Wegdeel
+order: 1
 ---
 
 # Wegdeel
