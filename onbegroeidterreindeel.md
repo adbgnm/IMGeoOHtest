@@ -1,7 +1,7 @@
 ---
 title: Onbegroeid Terreindeel
 permalink: / onbegroeidterreindeel
-order: 5
+sort: 5
 ---
 
 OnbegroeidTerreindeel
