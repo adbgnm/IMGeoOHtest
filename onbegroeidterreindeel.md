@@ -1,10 +1,10 @@
 ---
-title: Onbegroeid Terreindeel
+title: Onbegroeid terreindeel
 permalink: / onbegroeidterreindeel
 sort: 5
 ---
 
-OnbegroeidTerreindeel
+Onbegroeid terreindeel
 =====================
 
 **Definitie**
