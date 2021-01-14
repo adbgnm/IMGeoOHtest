@@ -1,8 +1,6 @@
 ---
-layout: default
 title: bak
 permalink: /bak/
-sort: 1
 ---
 
 Bak
