@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bak
-permalink: /:title/
+permalink: /bak/
 sort: 1
 ---
 
