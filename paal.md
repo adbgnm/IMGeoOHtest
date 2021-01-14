@@ -1,3 +1,8 @@
+---
+permalink: /paal
+sort: 24
+---
+
 Paal
 ====
 
