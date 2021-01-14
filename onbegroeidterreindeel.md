@@ -12,7 +12,7 @@ Kleinste functioneel onafhankelijk stukje van een terrein, dat er binnen het
 objecttype Terrein van NEN 3610 wordt onderscheiden, zonder aaneengesloten
 vegetatie.
 
-Inwinningsregels
+inwinningsregels
 ----------------
 
 ### BGT
