@@ -1,3 +1,8 @@
+---
+title: Waterdeel
+order: 1
+---
+
 Waterdeel
 =========
 
@@ -462,8 +467,3 @@ A: begroeidterreindeel, grasland agrarisch
 
 C: begroeidterreindeel, loofbos.
 
-Objecttype: OndersteunendWaterdeel
-----------------------------------
-
-TypeWaterPlus
--------------
