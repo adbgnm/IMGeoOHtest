@@ -1,6 +1,7 @@
 ---
-sort: 1
+title: Wegdeel
 permalink: /wegdeel
+weight: 2
 ---
 
 # Wegdeel
