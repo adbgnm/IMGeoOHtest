@@ -1,3 +1,8 @@
+---
+permalink: /pand
+sort: 9
+---
+
 Pand
 ====
 
