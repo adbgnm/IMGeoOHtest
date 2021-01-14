@@ -2,10 +2,14 @@ title: IMGeo objectenhandboek bèta
 lang: nl
 description: Praktijkhandleiding voor toepassing van de BGT|IMGeo standaarden bij de objectafbakening
 
+
 readme_index:
-  enabled:          true
-  remove_originals: false
-  with_frontmatter: false
+  with_frontmatter: true
+
+#readme_index:
+#  enabled:          true
+#  remove_originals: false
+#  with_frontmatter: false
 
 exclude:
   - Makefile
