@@ -1,3 +1,9 @@
+---
+title: Spoor
+permalink: /spoor
+sort: 3
+---
+
 # Spoor
 
 **Definitie**
