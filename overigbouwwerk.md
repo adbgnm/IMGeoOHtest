@@ -11,7 +11,7 @@ OverigBouwwerk
 Met de aarde verbonden duurzaam bouwwerk, dat niet valt onder de definities van
 een pand of kunstwerk.
 
-Inwinningsregels
+inwinningsregels
 ----------------
 
 ### BGT
