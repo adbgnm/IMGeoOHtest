@@ -1,6 +1,6 @@
 ---
 permalink: /openbareruimte
-sort: 33
+sort: 34
 ---
 
 OpenbareRuimte
