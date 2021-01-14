@@ -1,3 +1,8 @@
+---
+permalink: /openbareruimtelabel
+sort: 31
+---
+
 OpenbareRuimteLabel
 ===================
 
