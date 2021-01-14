@@ -1,3 +1,8 @@
+---
+permalink: /scheiding
+sort: 15
+---
+
 Scheiding
 =========
 
