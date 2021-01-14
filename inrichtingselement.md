@@ -1,3 +1,8 @@
+---
+permalink: /inrichtingselement
+sort: 18
+---
+
 Inrichtingselement
 ==================
 
