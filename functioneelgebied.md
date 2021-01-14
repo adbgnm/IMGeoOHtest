@@ -10,7 +10,7 @@ FunctioneelGebied
 
 Begrensd en benoemd gebied dat door een functionele eenheid beschreven wordt.
 
-Inwinningsregels
+inwinningsregels
 ----------------
 
 ### IMGeo
