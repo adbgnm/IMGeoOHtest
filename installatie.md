@@ -1,3 +1,8 @@
+---
+permalink: /installatie
+sort: 22
+---
+
 Installatie
 ===========
 
