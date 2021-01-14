@@ -1,3 +1,8 @@
+---
+permalink: /ondersteunendwaterdeel
+sort: 8
+---
+
 OndersteunendWaterdeel
 ======================
 
@@ -6,51 +11,50 @@ OndersteunendWaterdeel
 Object dat in het kader van de waterhuishouding periodiek gedeeltelijk of geheel
 met water is bedekt.
 
-Inwinningsregels
+inwinningsregels
 ----------------
 
 ### BGT
 
-Bron: [Gegevenscatalogus BGT
-1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-waterdeel-ondersteunendwaterdeel)
+Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-waterdeel-ondersteunendwaterdeel)
 
 >   De volgende paragrafen beschrijven op welke wijze land en water zijn
 >   gescheiden in de BGT.
-
+>
 >   **Algemeen**
-
+>
 >   De BGT kent vier typen waterdeel: zee; waterloop; watervlakte; greppel,
 >   droge sloot.
-
+>
 >   En twee typen ondersteunend waterdeel: oever, slootkant; slik.
-
+>
 >   De kruinlijngeometrie wordt bij het ondersteunend waterdeel niet opgenomen.
 >   Impliciet is de – niet-waterbegrenzing – van een oever altijd de hoogste
 >   kant.
-
+>
 >   Voor de begrenzing van land en zee maakt de BGT onderscheid in de begrenzing
 >   langs de Noordzee enerzijds en die langs de Waddenzee en de Zuidwestelijke
 >   delta in Zeeland en Zuid-Holland anderzijds.
-
+>
 >   Onder waterlopen vallen rivieren, kanalen, beken, sloten en grachten.
-
+>
 >   Watervlakten zijn meren, plassen, vennen en vijvers. Ook havens vallen in de
 >   regel hieronder.
-
+>
 >   Greppels en droge sloten hebben een functie in de waterhuishouding.
-
+>
 >   Oevers en slootkanten zijn de delen die enerzijds begrensd worden door de
 >   waterlijn en anderzijds door een kant insteek.
-
+>
 >   Slikken zijn bij laagwater droogvallende delen. Zij komen uitsluitend voor
 >   in de Waddenzee en in de Zuidwestelijke delta.
-
+>
 >   In het algemeen geldt dat zichtbare topografie altijd als begrenzing
 >   voorkomt, in de beschreven situaties aangevuld met niet of niet-altijd
 >   zichtbare topografische begrenzingen.
-
+>
 >   **Noordzee**
-
+>
 >   Voor de begrenzing van terrein en water langs de Noordzee gebruikt de BGT de
 >   UNCLOS-basislijn. Deze basislijn valt onder verantwoording van de Dienst der
 >   Hydrografie van het ministerie van Defensie. Deze dienst voert deze taak uit
@@ -59,50 +63,50 @@ Bron: [Gegevenscatalogus BGT
 >   rechten die staten hebben op zee en de manier waarop buurstaten deze rechten
 >   begrenzen. Centraal in dit verdrag staat de basislijn, die het verloop van
 >   de kust definieert.
-
+>
 >   De Nederlandse basislijn is een combinatie van normale basislijnen en rechte
 >   (‘getrokken’) basislijnen. In tegenstelling tot de normale basislijn, zijn
 >   de rechte basislijnen onveranderlijk en bij Nederlandse wet vastgesteld. De
 >   rechte basislijnen vormen de af­sluiting van zeegaten, en daarmee de
 >   begrenzing tussen de territoriale zee en de binnenwateren.
-
+>
 >   Sluit de basislijn een waterdeel af zoals onder meer van de Westerschelde,
 >   Nieuwe Waterweg en Waddenzee, dan vormt de basislijn de begrenzing van dat
 >   waterdeel met de Noordzee.
-
+>
 >   **Actualiteit**
-
+>
 >   Een of enkele keren per jaar publiceert de Dienst der Hydrografie een nieuwe
 >   UNCLOS-basislijn. De dienst maakt gebruikers attent op deze wijzigingen,
 >   onder meer via de [eigen
 >   website](https://www.defensie.nl/onderwerpen/hydrografie/) en via een
 >   mailing per e-mail.
-
+>
 >   **Strand**
-
+>
 >   Langs de Noordzee bezit het onbegroeid terreindeel grenzend aan de basislijn
 >   het fysiek voorkomen ‘zand’.
-
+>
 >   Aan de ‘landzijde’ wordt het strand altijd begrensd door zichtbare
 >   topografie, zoals de overgang naar de duinen bestaande uit een hek of
 >   duinvoet. In het geval een kunstmatige aangelegde waterkering aanwezig is,
 >   zoals bij de Hondsbossche Zeewering, bestaat de begrenzing uit kademuur of
 >   walbescherming.
-
+>
 >   **Waddenzee en Zuidwestelijke delta**
-
+>
 >   In deze wateren is altijd een kunstmatig aangelegde waterkering aanwezig in
 >   de vorm van een kademuur of walbescherming. Deze vormen altijd een
 >   begrenzing voor de BGT.
-
+>
 >   Daarnaast worden in deze wateren peilingen verricht voor het Lowest
 >   Astronomical Tide (LAT). Als de ligging daarvan beschikbaar is voor de BGT
 >   vormt het de scheiding tussen het waterdeel en het ondersteunend waterdeel
 >   type slik. Ontbreekt het LAT dan vormt de kunstmatige waterkering de
 >   scheiding tussen terrein en water.
-
+>
 >   **Rivieren**
-
+>
 >   In de BGT komt bij rivieren of een begrenzing voor in de vorm van een
 >   kademuur of walbescherming, of een oever. Van nature komt er een variabel
 >   peil voor. In de grote, bevaarbare rivieren hanteert Rijkswaterstaat hier
