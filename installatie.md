@@ -1,6 +1,6 @@
 ---
 permalink: /installatie
-sort: 22
+sort: 21
 ---
 
 Installatie
