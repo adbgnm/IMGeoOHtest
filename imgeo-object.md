@@ -13,6 +13,6 @@ dan niet uit de basisregistratie.
 
 ```mermaid
 classDiagram
-   IMGeo-object <|– Wegdeel
-   IMGeo-object <|– OndersteunendWegdeel
+   IMGeo-object <|–- Wegdeel
+   IMGeo-object <|–- OndersteunendWegdeel
 ```
