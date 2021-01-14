@@ -1,7 +1,5 @@
 ---
-title: Wegdeel
-breadcrumb-text: Objecttype Wegdeel
-order: 1
+sort: 1
 ---
 
 # Wegdeel
