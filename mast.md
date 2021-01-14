@@ -1,3 +1,8 @@
+---
+permalink: /mast
+sort: 23
+---
+
 Mast
 ====
 
