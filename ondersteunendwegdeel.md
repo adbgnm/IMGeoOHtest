@@ -1,7 +1,7 @@
 ---
 title: Ondersteunend Wegdeel
 permalink: /ondersteunendwegdeel
-order: 3
+sort: 3
 ---
 
 # OndersteunendWegdeel
