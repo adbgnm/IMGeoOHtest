@@ -1,7 +1,7 @@
 ---
 title: Wegdeel
 permalink: /wegdeel
-order: 2
+sort: 2
 ---
 
 # Wegdeel
