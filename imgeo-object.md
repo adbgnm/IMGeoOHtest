@@ -12,6 +12,6 @@ dan niet uit de basisregistratie.
 
 ```mermaid
 classDiagram
-   IMGeo-object <|–- Wegdeel
-   IMGeo-object <|–- OndersteunendWegdeel
+   IMGeoObject <|–- Wegdeel
+   IMGeoObject <|–- OndersteunendWegdeel
 ```
