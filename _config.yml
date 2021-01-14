@@ -1,7 +1,15 @@
 title: IMGeo objectenhandboek bèta
 lang: nl
 description: Praktijkhandleiding voor toepassing van de BGT|IMGeo standaarden bij de objectafbakening
- 
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+
 plugins:
   - jekyll-breadcrumbs
   - jekyll-archives
