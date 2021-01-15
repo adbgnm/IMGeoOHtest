@@ -10,7 +10,7 @@ Put
 
 Gegraven of geboorde kokervormige diepte waarin zich (vloei)stoffen bevinden.
 
-Type
+type
 ----
 
 **Definitie**
