@@ -1,6 +1,3 @@
-IMGeo objectenhandboek
-======================
-
 Deze versie
 -----------
 
