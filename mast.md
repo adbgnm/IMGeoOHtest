@@ -10,7 +10,7 @@ Mast
 
 Hoge draagconstructie.
 
-Type
+type
 ----
 
 **Definitie**
