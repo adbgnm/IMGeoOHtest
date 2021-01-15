@@ -3,7 +3,7 @@ permalink: /openbareruimte
 sort: 34
 ---
 
-OpenbareRuimte
+Openbare ruimte
 ==============
 
 **Definitie**
