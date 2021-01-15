@@ -27,4 +27,5 @@ script: |
 scss: |
   .sidebar{color:#000; background: #fff;}
   body{font-family: Verdana, Geneva, sans-serif;}
+  .markdown-body{font-family: Verdana, Geneva, sans-serif;}
 
