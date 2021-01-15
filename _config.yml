@@ -25,7 +25,7 @@ script: |
   alert("it works!");
   
 scss: |
-  .sidebar{color:#000; background: #fff;}
-  body{font-family: Verdana, Geneva, sans-serif;}
+  .sidebar{background: #fff;}
+  .toctree{color:#000;}
   .markdown-body{font-family: Verdana, Geneva, sans-serif;}
 
