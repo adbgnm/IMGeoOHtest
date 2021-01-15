@@ -12,8 +12,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
  
-theme "ed."
-# theme: jekyll-theme-minimal
+# theme "ed."
+theme: jekyll-theme-minimal
 ## remote method ##
 
 # remote_theme: rundocs/jekyll-rtd-theme
