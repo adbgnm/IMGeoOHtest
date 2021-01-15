@@ -10,7 +10,7 @@ Bord
 
 Een paneel waarop informatie wordt afgebeeld.
 
-Type
+type
 ----
 
 **Definitie**
