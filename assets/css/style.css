@@ -11,11 +11,9 @@ font-family: Verdana;
 
 }
 
-.sidebar {
- 
+div.sidebar { 
   color: #000;
-  background: #fff;
-  
+  background: #fff;  
 }
 
 
