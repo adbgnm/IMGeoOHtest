@@ -9,7 +9,7 @@ Straatmeubilair
 **Definitie**  
 Een ruimtelijk object ter inrichting van de openbare ruimte.
 
-Type
+type
 ----
 
 Definitie
