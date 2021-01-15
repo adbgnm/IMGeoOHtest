@@ -3,8 +3,8 @@ permalink: /functioneelgebied
 sort: 16
 ---
 
-FunctioneelGebied
-=================
+Functioneel gebied
+==================
 
 **Definitie**
 
