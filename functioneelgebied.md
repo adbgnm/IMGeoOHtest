@@ -24,7 +24,7 @@ Bron: [Gegevenscatalogus IMGeo
 >   samen een landsdekkend geheel zonder gaten te vormen. Ze bevatten geen
 >   plaatsbepalingspunten.
 
-Type
+type
 ----
 
 **Definitie**
