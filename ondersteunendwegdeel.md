@@ -1,5 +1,5 @@
 ---
-permalink: /ondersteunendwegdeel
+permalink: /wegdeel
 sort: 3
 ---
 
