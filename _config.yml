@@ -43,3 +43,4 @@ scss: |
   .markdown-body blockquote {font-family: 'RO Serif', serif}
   .container{background: #fff;}
   .header{background: #008dc9;}
+  .status{background:#fff;color:#000}
