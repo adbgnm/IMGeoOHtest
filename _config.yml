@@ -27,7 +27,7 @@ script: |
   
 scss: |
   .sidebar{background: #fff;}
-  .toctree{color:#000;}
+  .toc{color:#000;}
   .markdown-body{font-family: Verdana, Geneva, sans-serif;}
   .container{background: #fff;}
 
