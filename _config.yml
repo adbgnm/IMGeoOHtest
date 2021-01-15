@@ -27,9 +27,9 @@ script: |
   var logo = document.createElement("div"); 
   var lgclass = document.createAttribute("class");      
   lgclass.value = "logo";                 
-#  logo.setAttributeNode(lgclass); 
-#  var content = document.getElementsByClassName("content")[0]; 
-#  content.insertBefore(logo, content.firstChild);  
+  logo.setAttributeNode(lgclass); 
+  var content = document.getElementsByClassName("content")[0]; 
+  content.insertBefore(logo, content.firstChild);   
 # breadcrumbs
   var url_prefix = 'https://adbgnm.github.io/IMGeoOHtest/';
   var breadcrumbs = window.location.href.replace(url_prefix, '').split('/');
@@ -41,8 +41,8 @@ script: |
   for (let tocitem of toclevel1) { tocitem.getElementsByTagName('a')[0].innerHTML = tocitem.getElementsByTagName('a')[0].innerHTML.split('. ')[1];}
 # translate
   document.getElementsByClassName('input-sm')[0].placeholder = "Zoeken in het objectenhandboek...";
-  document.getElementsByClassName('search-results')[0].getElementsByTagName('h2')[0].innerHTML = 'Zoekresultaten';
-  document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML = document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML.replace('Search finished, found', 'Zoekopdracht voltooid,').replace('page(s) matching the search query', 'pagina (\'s) gevonden die overeenkomen met de zoekopdracht');
+  if (typeof document.getElementsByClassName('search-results') != "undefined") { document.getElementsByClassName('search-results')[0].getElementsByTagName('h2')[0].innerHTML = 'Zoekresultaten';}
+  if (typeof document.getElementsByClassName('search-results') != "undefined") {document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML = document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML.replace('Search finished, found', 'Zoekopdracht voltooid,').replace('page(s) matching the search query', 'pagina (\'s) gevonden die overeenkomen met de zoekopdracht');}
   
 scss: |
   @import url('https://tools.geostandaarden.nl/respec/style/fonts/ro-fonts.css');   
@@ -58,4 +58,4 @@ scss: |
   .header{background: #008dc9;}
   .addons-wrap .status, addons {background:#fff;color:#000}
   .input-sm:before{content: " " }
-#  .logo{background: url('https://docs.geostandaarden.nl/bro/gen/logo_minbzk.png'); background-repeat: no-repeat; background-size: auto; width: 100%}
+  .logo{background: url('https://docs.geostandaarden.nl/bro/gen/logo_minbzk.png'); background-repeat: no-repeat; background-size: auto; width: 100%}
