@@ -19,7 +19,6 @@ readme_index:
   
 script: | 
   console.log("Hallo IMGeo objectenhandboek!");
-# breadcrumbs
   var url_prefix = "https://adbgnm.github.io/IMGeoOHtest/";
 # var breadcrumbs = window.location.href.replace(url_prefix, '').split('/');
 #  breadcrumbs.forEach(addLink);
