@@ -24,10 +24,8 @@ script: |
   breadcrumbs.forEach(addLink);
   function addLink(value, index, array) { array[index] = '<a href="/' + value + '">' + value + '</a>'; };
   document.getElementsByClassName("breadcrumb-item")[1].innerHTML = breadcrumbs.join(' / ').replace(/.html|.md/g, '');
-# numbered level-1-list  
   var toclevel1 = document.getElementsByClassName('level-1');
   for (let tocitem of toclevel1) { tocitem.getElementsByTagName('a')[0].innerHTML = tocitem.getElementsByTagName('a')[0].innerHTML.split('. ')[1];}
-# translate
   document.getElementsByClassName('input-sm')[0].placeholder = "Zoeken in het objectenhandboek...";
   if (typeof document.getElementsByClassName('search-results') != "undefined") { document.getElementsByClassName('search-results')[0].getElementsByTagName('h2')[0].innerHTML = 'Zoekresultaten';};
   if (typeof document.getElementsByClassName('search-results') != "undefined") {document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML = document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML.replace('Search finished, found', 'Zoekopdracht voltooid,').replace('page(s) matching the search query', 'pagina (\'s) gevonden die overeenkomen met de zoekopdracht');};
@@ -46,4 +44,4 @@ scss: |
   .header{background: #008dc9;}
   .addons-wrap .status, addons {background:#fff;color:#000}
   .input-sm:before{content: " " }
-#  .logo{background: url('https://docs.geostandaarden.nl/bro/gen/logo_minbzk.png'); background-repeat: no-repeat; background-size: auto; width: 100%}
+  .logo{background: url('https://docs.geostandaarden.nl/bro/gen/logo_minbzk.png'); background-repeat: no-repeat; background-size: auto; width: 100%}
