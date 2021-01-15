@@ -11,7 +11,7 @@ Sensor
 Apparaat voor de meting van een fysieke grootheid (bijv. temperatuur, licht,
 druk, elektriciteit).
 
-Type
+type
 ----
 
 **Definitie**
