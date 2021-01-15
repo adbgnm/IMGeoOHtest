@@ -1,5 +1,5 @@
 ---
-permalink: /waterinrichtingselement
+permalink: /weginrichtingselement
 sort: 29
 ---
 
