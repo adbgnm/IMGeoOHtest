@@ -12,11 +12,11 @@ exclude:
   - Gemfile
   - Gemfile.lock
  
-# theme "ed."
-theme: jekyll-theme-minimal
+theme "ed."
+#theme: jekyll-theme-minimal
 ## remote method ##
 
-# remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: rundocs/jekyll-rtd-theme
 
 readme_index:
   with_frontmatter: true
