@@ -27,7 +27,19 @@ classDiagram
    OverigeConstructie <|-- Kunstwerkdeel
    OverigeConstructie <|-- Scheiding
    IMGeo_object <|-- FunctioneelGebied
-   IMGeo_object <|-- GebouwInstallatie
+   IMGeo_object <|-- OpenbareRuimteLabel
+   IMGeo_object <|-- RegistratiefGebied
+   RegistratiefGebied <|-- Buurt
+   RegistratiefGebied <|-- OpenbareRuimte
+   RegistratiefGebied <|-- Stadsdeel
+   RegistratiefGebied <|-- Waterschap
+   RegistratiefGebied <|-- Wijk
+   class Plaatsbepalingspunt
+```
+
+```mermaid
+classDiagram
+ IMGeo_object <|-- GebouwInstallatie
    IMGeo_object <|-- Inrichtingselement
    Inrichtingselement <|-- Bak
    Inrichtingselement <|-- Bord
@@ -41,7 +53,6 @@ classDiagram
    Inrichtingselement <|-- Waterinrichtingselement
    Inrichtingselement <|-- Weginrichtingselement
    IMGeo_object <|-- VegetatieObject
-   IMGeo_object <|-- OpenbareRuimteLabel
    IMGeo_object <|-- RegistratiefGebied
    RegistratiefGebied <|-- Buurt
    RegistratiefGebied <|-- OpenbareRuimte
