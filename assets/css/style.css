@@ -5,8 +5,17 @@
 
 /* @import "jekyll-theme-minimal"; */
 
-body {
+body, html, p {
 
 font-family: Verdana;
 
 }
+
+.sidebar {
+ 
+  color: #000;
+  background: #fff;
+  
+}
+
+
