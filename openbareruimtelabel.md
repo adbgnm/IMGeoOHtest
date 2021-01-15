@@ -3,7 +3,7 @@ permalink: /openbareruimtelabel
 sort: 31
 ---
 
-OpenbareRuimteLabel
+Openbare ruimte label
 ===================
 
 **Definitie**
