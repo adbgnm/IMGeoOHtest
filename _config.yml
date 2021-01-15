@@ -22,7 +22,8 @@ readme_index:
   with_frontmatter: true
   
 script: | 
-  alert("it works!");
+  console.log("it works!");
+  console.log("document.getElementsByClassName("breadcrumb-item");
   
 scss: |
   .sidebar{background: #fff;}
