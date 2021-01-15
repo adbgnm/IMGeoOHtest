@@ -28,12 +28,6 @@ classDiagram
    OverigeConstructie <|-- Scheiding
    IMGeo_object <|-- FunctioneelGebied
    IMGeo_object <|-- OpenbareRuimteLabel
-   IMGeo_object <|-- RegistratiefGebied
-   RegistratiefGebied <|-- Buurt
-   RegistratiefGebied <|-- OpenbareRuimte
-   RegistratiefGebied <|-- Stadsdeel
-   RegistratiefGebied <|-- Waterschap
-   RegistratiefGebied <|-- Wijk
    class Plaatsbepalingspunt
 ```
 
