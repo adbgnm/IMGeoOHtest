@@ -12,7 +12,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
  
-theme "ed."
+#theme "ed."
 #theme: jekyll-theme-minimal
 ## remote method ##
 
