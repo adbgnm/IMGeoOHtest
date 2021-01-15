@@ -11,6 +11,10 @@ font-family: Verdana;
 
 }
 
+.container {
+   background: #fff;  
+}
+
 div.sidebar { 
   color: #000;
   background: #fff;  
