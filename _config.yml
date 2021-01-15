@@ -31,6 +31,9 @@ script: |
   var toclevel1 = document.getElementsByClassName('level-1');
   for (let tocitem of toclevel1) { tocitem.getElementsByTagName('a')[0].innerHTML = tocitem.getElementsByTagName('a')[0].innerHTML.split('. ')[1];}
   document.getElementsByClassName('input-sm')[0].placeholder = "Zoeken in het objectenhandboek...";
+  document.getElementsByClassName('search-results')[0].getElementsByTagName('h2')[0].innerHTML = 'Zoekresultaten';
+  document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML = 
+  document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML.replace('Search finished, found', 'Zoekopdracht voltooid,').replace('page(s) matching the search query', 'pagina (\'s) gevonden die overeenkomen met de zoekopdracht');
   
 scss: |
   @import url('https://tools.geostandaarden.nl/respec/style/fonts/ro-fonts.css');   
