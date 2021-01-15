@@ -40,6 +40,6 @@ scss: |
   .level-1, .level-2, .level-3, .level-4, .level-5 {background:#fff};
   body, .markdown-body {font-family: 'RO Sans', sans-serif;}  
   .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4 {color: #00387d; font-family: 'RO Sans', sans-serif;}  
-  .markdown-body blockquote {border: none; background: #dfe2e; font-family: 'RO Serif', serif}
+  .markdown-body blockquote {border: none; background: #dfe2e5; font-family: 'RO Serif', serif}
   .container{background: #fff;}
   .header{background: #008dc9;}
