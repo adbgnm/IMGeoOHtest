@@ -38,7 +38,7 @@ scss: |
   .toctree a{color:#000; padding-left: 8}
   .toctree a:active {background: #fff;}
   .level-1, .level-2, .level-3, .level-4, .level-5 {background:#fff};
-  .markdown-body{font-family: 'RO Sans', sans-serif;}
+  body, .markdown-body{font-family: 'RO Sans', sans-serif;}
   .markdown-body blockquote {border: none; background: #dfe2e; font-family: 'RO Serif', serif}
   .container{background: #fff;}
   .header{background: #008dc9;}
