@@ -1,5 +1,5 @@
 ---
-permalink: /ondersteunendwegdeel
+permalink: /imgeo-object/ondersteunendwegdeel
 sort: 3
 ---
 
