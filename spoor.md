@@ -1,5 +1,5 @@
 ---
-permalink: /spoor
+permalink: /imgeo-object/spoor
 sort: 4
 ---
 
