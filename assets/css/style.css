@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-rtd-theme";
+/* @import "jekyll-rtd-theme"; */
 
 /* @import "jekyll-theme-minimal"; */
 
@@ -11,7 +11,7 @@ font-family: Verdana;
 
 }
 
-.toc {
+.sidebar {
    background: #fff;  
 }
 
