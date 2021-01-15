@@ -3,7 +3,7 @@ permalink: /gebouwinstallatie
 sort: 17
 ---
 
-GebouwInstallatie
+Gebouw-installatie
 =================
 
 **Definitie**
