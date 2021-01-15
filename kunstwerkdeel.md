@@ -80,7 +80,7 @@ Bron: [Gegevenscatalogus IMGeo
 >   relatieve hoogte van een duiker bedraagt altijd \< 0. Het waterdeel in de
 >   duiker wordt niet afgebeeld.
 
-Type
+type
 ----
 
 **Definitie**
@@ -313,9 +313,6 @@ D:
 | relatieveHoogteligging |  0                  |                                      |
 
 B en C: ondersteunend waterdeel, oever/slootkant.
-
-TypeKunstwerkPlus
------------------
 
 ### keermuur
 
