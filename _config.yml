@@ -23,7 +23,7 @@ readme_index:
   
 script: | 
   console.log("it works!");
-  console.log("document.getElementsByClassName("breadcrumb-item"));
+  console.log(document.getElementsByClassName("breadcrumb-item"));
   
 scss: |
   .sidebar{background: #fff;}
