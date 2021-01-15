@@ -20,8 +20,8 @@ readme_index:
 script: | 
   console.log("Hallo IMGeo objectenhandboek!");
 # breadcrumbs
-  var url_prefix = 'https://adbgnm.github.io/IMGeoOHtest/';
-  var breadcrumbs = window.location.href.replace(url_prefix, '').split('/');
-  breadcrumbs.forEach(addLink);
-  function addLink(value, index, array) { array[index] = '<a href="/' + value + '">' + value + '</a>'; };
-  document.getElementsByClassName("breadcrumb-item")[1].innerHTML = breadcrumbs.join(' / ').replace(/.html|.md/g, '');
+#  var url_prefix = 'https://adbgnm.github.io/IMGeoOHtest/';
+#  var breadcrumbs = window.location.href.replace(url_prefix, '').split('/');
+#  breadcrumbs.forEach(addLink);
+#  function addLink(value, index, array) { array[index] = '<a href="/' + value + '">' + value + '</a>'; };
+#  document.getElementsByClassName("breadcrumb-item")[1].innerHTML = breadcrumbs.join(' / ').replace(/.html|.md/g, '');
