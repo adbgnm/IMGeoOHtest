@@ -21,7 +21,10 @@ remote_theme: rundocs/jekyll-rtd-theme
 readme_index:
   with_frontmatter: true
   
+script: | 
+  alert("it works!");
+  
 scss: |
-.sidebar{color:#000; background: #fff;}
-body{font-family: Verdana, Geneva, sans-serif;}
+  .sidebar{color:#000; background: #fff;}
+  body{font-family: Verdana, Geneva, sans-serif;}
 
