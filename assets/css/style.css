@@ -1,12 +1,18 @@
-h1 {
-  font-size: 2em !important;
-}
+---
+---
 
-.markdown-body blockquote {
-  background-color: blue !important;
+/* @import "jekyll-rtd-theme"; */
+
+/* @import "jekyll-theme-minimal"; */
+
+body, html, p {
+
+font-family: Verdana;
+
 }
 
 .sidebar {
-  color: #000;
-  background: #fff;  
+   background: #fff;  
 }
+
+

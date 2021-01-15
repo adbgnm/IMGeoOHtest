@@ -11,9 +11,17 @@ exclude:
   - Makefile
   - Gemfile
   - Gemfile.lock
-  
+ 
+#theme "ed."
+#theme: jekyll-theme-minimal
 ## remote method ##
+
 remote_theme: rundocs/jekyll-rtd-theme
 
 readme_index:
   with_frontmatter: true
+  
+scss: |
+.sidebar{color:#000; background: #fff;}
+body{font-family: Verdana, Geneva, sans-serif;}
+
