@@ -27,8 +27,10 @@ script: |
   
 scss: |
   .sidebar{background: #fff;}
+  a {color:#f00}
   .toctree a{color:#000;}
   .level-1{color:#000};
   .markdown-body{font-family: Verdana, Geneva, sans-serif;}
   .container{background: #fff;}
+  
 
