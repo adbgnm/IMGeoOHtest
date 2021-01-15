@@ -81,7 +81,7 @@ Bron: [Gegevenscatalogus IMGeo
 >   IMGeo muren en kademuren van breder dan 30 cm worden als vlakobject
 >   vastgelegd; smallere worden als lijnobject vastgelegd.
 
-Type
+type
 ----
 
 **Definitie**
