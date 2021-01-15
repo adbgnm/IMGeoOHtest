@@ -1,5 +1,5 @@
 ---
-permalink: /wegdeel
+permalink: /imgeo-object/wegdeel
 sort: 2
 ---
 
