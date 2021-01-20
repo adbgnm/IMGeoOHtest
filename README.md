@@ -3,15 +3,15 @@ IMGeo objectenhandboek
 
 ![](media/225fb3ba09d381b3650114de9da62e9c.png)
 
--   Over het objectenhandboek
+Over het objectenhandboek
 
--   Gebruik objectenhandboek
+-   [Gebruik objectenhandboek](#over-het-objectenhandboek)
 
--   Toelichting bij de voorbeeld en
+-   [Toelichting bij de voorbeelden](#toelichting-bij-de-voorbeelden)
 
--   Uitgewerkt voorbeeld
+-   [Uitgewerkt voorbeeld](#uitgewerkt-voorbeeld)
 
--   Deze versie
+-   [Deze versie](#deze-versie)
 
 Over het objectenhandboek
 -------------------------
