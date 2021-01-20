@@ -26,8 +26,7 @@ script: |
   document.getElementsByClassName("breadcrumb-item")[1].innerHTML = breadcrumbs.join(' / ').replace(/.html|.md/g, '');
   var toclevel1 = document.getElementsByClassName('level-1');
   for (let tocitem of toclevel1) { tocitem.getElementsByTagName('a')[0].innerHTML = tocitem.getElementsByTagName('a')[0].innerHTML.split('. ')[1];}
-  document.getElementsByClassName('input-sm')[0].placeholder = "Zoeken in het objectenhandboek...";
-  console.log(document.getElementsByClassName('search-results'));
+  document.getElementsByClassName('input-sm')[0].placeholder = "Zoeken in het objectenhandboek...";  
   if (document.getElementsByClassName('search-results').length > 0 ) { document.getElementsByClassName('search-results')[0].getElementsByTagName('h2')[0].innerHTML = 'Zoekresultaten';};
   if (document.getElementsByClassName('search-results').length > 0) {document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML = document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML.replace('Search finished, found', 'Zoekopdracht voltooid,').replace('page(s) matching the search query', 'pagina (\'s) gevonden die overeenkomen met de zoekopdracht');};
   var logo = document.createElement("div"); 
@@ -38,7 +37,7 @@ script: |
   content.insertBefore(logo, content.firstChild);   
   var lgimg = 'https://docs.geostandaarden.nl/bro/gen/logo_minbzk.png';
   document.getElementById("logo").innerHTML = '<img src="'+lgimg+'" title="Ministerie van BZK" />';
-  document.getElementsByClassName('status')[0].getElementsByClassName('title')[0].getElementsByTagName('li')[0].innerHTML = 'Beheer en licentie';
+  document.getElementsByClassName('status')[0].getElementsByClassName('title')[0].innerHTML = '<i class="fa fa-book"></i> Beheer en licentie';
 
 scss: |
   @import url('https://tools.geostandaarden.nl/respec/style/fonts/ro-fonts.css');   
