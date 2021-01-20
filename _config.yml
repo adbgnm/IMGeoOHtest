@@ -51,6 +51,6 @@ scss: |
   .markdown-body blockquote {font-family: 'RO Serif', serif}
   .container{background: #fff;}
   .header{background: #008dc9;}
-  .addons-wrap .status, addons {background:#fff;color:#000}
+  .addons-wrap .status, addons {background:#007ea9;color:#000}
   .input-sm:before{content: " " }
-  .logo{background: url('https://docs.geostandaarden.nl/bro/gen/logo_minbzk.png'); background-repeat: no-repeat; background-size: auto; width: 100%}
+  .header { display:none; }
