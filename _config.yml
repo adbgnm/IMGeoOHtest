@@ -54,4 +54,4 @@ scss: |
   .addons-wrap .status, addons {background:#007ea9;color:#000}
   .input-sm:before{content: " " }
   .header { display:none; }
-  #logo img { width: 75%; margin: auto; }
+  #logo img { width: 75%; margin-left: auto; margin-right: auto; display: block }
