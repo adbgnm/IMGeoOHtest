@@ -1,35 +1,41 @@
-# IMGeo objectenhandboek
+IMGeo objectenhandboek
+======================
 
-Deze versie
------------
+![](media/2649c244ad58b590ed8fecf6d17ce107.png)
 
-In het objectenhandboek versie 1.1. zijn aanvullingen en verbeteringen
-doorgevoerd ten opzichte van de vorige versie 1.0. Bij sommige complexere
-situaties is getracht om duidelijker beeldmateriaal in te voegen.
+-   Over het objectenhandboek
 
-Het objectenhandboek omvat drie delen:
+-   Gebruik objectenhandboek
 
-1.  Het deel met voorbeelden van de verplichte inhoud van de Basisregistratie
-    Grootschalige Topografie (BGT). De BGT behoort als wettelijk verplichte
-    registratie tot het stelsel van basisregistraties en omvat alleen die
-    grootschalige topografische objecten die landsdekkend meervoudig worden
-    gebruikt.
+-   Toelichting bij de voorbeelden
 
-2.  Het tweede deel bevat voorbeelden van het InformatieModel Geografie (IMGeo).
-    Deze Nederlandse standaard beschrijft op grootschalig niveau topografische
-    en objecten die zo mogelijk meervoudig gebruikt worden en waarvoor
-    uitwisselingsafspraken nodig zijn tussen (overheids-)partijen.
+-   Uitgewerkt voorbeeld
 
-3.  Het derde deel behandelt afstemmingsvoorbeelden voor wat betreft de
-    inwinning in combinatie met de Basisregistratie Adressen en Gebouwen (BAG).
+-   Deze versie
+
+Over het objectenhandboek
+-------------------------
+
+Het objectenhandboek omvat een overzicht van
+
+-   de inwinregels en praktijkvoorbeelden van de verplichte inhoud van de
+    Basisregistratie Grootschalige Topografie (BGT),
+
+-   de inwinregels en praktijkvoorbeelden van de optionele inhoud van het
+    InformatieModel Geografie (IMGeo),
+
+-   en afstemmingsvoorbeelden voor wat betreft de inwinning in combinatie met de
+    Basisregistratie Adressen en Gebouwen (BAG)
 
 De drie delen staan niet op zichzelf, maar zijn opgesteld ter ondersteuning van
-de gegevenscatalogi van de BGT en van het IMGeo. De gegevenscatalogi beschrijven
-informatiekundig de objecttypen, attributen en domeinwaarden die behoren tot de
-gegevensverzamelingen van respectievelijk de BGT en het IMGeo. Aangezien een
-plaatje meer zegt dan 1000 woorden, is ervoor gekozen een objectenhandboek op te
-stellen dat aan de hand van een aantal praktijkvoorbeelden de gegevenscatalogi
-toelicht.
+de gegevenscatalogi van de
+[BGT](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/) en van het
+[IMGeo](https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/). De
+gegevenscatalogi beschrijven informatiekundig de objecttypen, attributen en
+domeinwaarden die behoren tot de gegevensverzamelingen van respectievelijk de
+BGT en het IMGeo. Aangezien een plaatje meer zegt dan 1000 woorden, is ervoor
+gekozen een objectenhandboek op te stellen dat aan de hand van een aantal
+praktijkvoorbeelden de gegevenscatalogi toelicht.
 
 Het objectenhandboek is een dynamisch document is. In het werkveld zal
 ongetwijfeld behoefte ontstaan aan meer voorbeelden om de gegevenscatalogi te
@@ -45,45 +51,43 @@ bij het gebruik van de datasets.
 Gebruik objectenhandboek
 ------------------------
 
-Onder [objecten](https://imgeo.geostandaarden.nl/def/imgeo-object) staan
-voorbeelden van de verplichte BGT-objecten én de niet-verplichte
-IMGeo-objecten. Steeds is een foto het uitgangspunt waarna er een op de foto
-voorkomend object wordt behandeld. De voorbeeldsituaties bieden hulp voor het
-juist kunnen classificeren van BGT objecten en de bijbehorende attributen, met
-name die specifiek voor het afgebeelde object zijn. Daaronder vallen niet de
-attributen voor identificatie, objecttijden, registratietijden, bronhouder en
--in onderzoek-. Deze laatste geeft overigens aan of er een geaccepteerde
-mutatiemelding voor het object is geregistreerd.
+Onder objecten staan voorbeelden van de verplichte BGT-objecten én de
+niet-verplichte IMGeo-objecten. Steeds is een foto het uitgangspunt waarna er
+een op de foto voorkomend object wordt behandeld. De voorbeeldsituaties bieden
+hulp voor het juist kunnen classificeren van BGT objecten en de bijbehorende
+attributen, met name die specifiek voor het afgebeelde object zijn. Daaronder
+vallen niet de attributen voor identificatie, objecttijden, registratietijden,
+bronhouder en -in onderzoek-. Deze laatste geeft overigens aan of er een
+geaccepteerde mutatiemelding voor het object is geregistreerd.
 
 Het onderscheid binnen IMGeo tussen verplichte BGT- en vrijwillige plusinhoud is
-in het informatiemodel duidelijker aangebracht. Er is nu een attribuut
+in het informatiemodel duidelijker aangebracht. Er is een attribuut
 'BGT-classificatie' en een attribuut 'plus-classificatie'. Er is voor gekozen om
 expliciet -geen BGT- ook in de benaming op te nemen wanneer het een uitbreiding
 van de objectklasse betreft. Wanneer deze vermelding niet voorkomt, is het een
 specialisatie van het betreffende BGT-type.
 
-Ook wordt aandacht besteedt aan de [afstemming tussen de BGT en de
-BAG](https://imgeo.geostandaarden.nl/def/imgeo-object/pand/inwinningsregel-bgt-en-bag).
-Beide onderdelen van het stelsels registreren weliswaar verschillende
-geometrieën van panden, maar ten behoeve van de efficiency moeten beide
-tegelijkertijd worden ingewonnen. Dit onderdeel biedt handvatten voor de
-afstemming van geometrie ten behoeve van panden. Bij panden geldt dat, gebaseerd
-op de eisen van veel gebruikers, de BGT de geometrie van het maaiveld oftewel de
-voetafdruk registreert, terwijl de BAG datzelfde doet met de buitenomtrek van
-panden, waarbij het niet uitmaakt of deze boven- of ondergronds is gelegen. Om
-het inwinningsproces ten behoeve van BGT en BAG niet nodeloos complex en vooral
+Ook wordt aandacht besteedt aan de afstemming tussen de BGT en de BAG. Beide
+onderdelen van het stelsels registreren weliswaar verschillende geometrieën van
+panden, maar ten behoeve van de efficiency moeten beide tegelijkertijd worden
+ingewonnen. Dit onderdeel biedt handvatten voor de afstemming van geometrie ten
+behoeve van panden. Bij panden geldt dat, gebaseerd op de eisen van veel
+gebruikers, de BGT de geometrie van het maaiveld oftewel de voetafdruk
+registreert, terwijl de BAG datzelfde doet met de buitenomtrek van panden,
+waarbij het niet uitmaakt of deze boven- of ondergronds is gelegen. Om het
+inwinningsproces ten behoeve van BGT en BAG niet nodeloos complex en vooral
 efficiënt te laten verlopen, is het van belang deze inwinning zoveel mogelijk te
 combineren.
 
 Toelichting bij de voorbeelden
 ------------------------------
 
-Met ingang van november 2012 is het toegestaan om aan elkaar grenzende BGT of
-IMGeo-objecten met gelijke attributen als afzonderlijke objecten aan de
-landelijke voorziening aan te bieden. Dit biedt bronhouders de mogelijkheid tot
-het aanbieden van beheerobjecten. Hierdoor kunnen er in de praktijk meer
-objecten voorkomen dan in de fotovoorbeelden is aangegeven. De fotovoorbeelden
-beperken zich dus tot de BGT respectievelijk IMGeo objecten.
+Het is toegestaan om aan elkaar grenzende BGT of IMGeo-objecten met gelijke
+attributen als afzonderlijke objecten aan de landelijke voorziening aan te
+bieden. Dit biedt bronhouders de mogelijkheid tot het aanbieden van
+beheerobjecten. Hierdoor kunnen er in de praktijk meer objecten voorkomen dan in
+de fotovoorbeelden is aangegeven. De fotovoorbeelden beperken zich dus tot de
+BGT respectievelijk IMGeo objecten.
 
 Bij iedere foto worden één of meerdere objecten behandeld die op de foto
 zichtbaar zijn. Een aantal zaken zijn van belang om te noemen voor het juiste
@@ -136,7 +140,7 @@ zijn.
 | type          | waterloop           |                 |
 | geometrie     | vlak                |                 |
 
-4.   Dit terreindeel is een akker en krijgt daarom het kenmerk ‘bouwland’.
+4.  Dit terreindeel is een akker en krijgt daarom het kenmerk ‘bouwland’.
 
 | **BegroeidTerreindeel** | **Attribuutwaarde** | **Opmerkingen** |
 |-------------------------|---------------------|-----------------|
@@ -150,9 +154,48 @@ zijn.
 |-----------|---------------------|-----------------|
 | geometrie | multivlak           |                 |
 
->   Dit onbegroeide **terreindeel** is een erf dat grenst aan de boerderij.
+6.  Dit onbegroeide **terreindeel** is een erf dat grenst aan de boerderij.
 
 | **OnbegroeidTerreindeel** | **Attribuutwaarde** | **Opmerkingen** |
 |---------------------------|---------------------|-----------------|
 | fysieke voorkomen         | erf                 |                 |
 | geometrie                 | vlak                |                 |
+
+Deze versie
+-----------
+
+Hieronder
+
+22-01-14 Foto's toegevoegd en enkele kleine inhoudelijke aanpassingen sinds
+versie Gegevenscatalogi BGT 1.1.1 (juli 2013) en IMGeo 2.1.1 (juli 2013)
+
+13-02-14 Ondersteunend wegdeel gecorrigeerd en aangepast
+
+11-08-15 Scheiding (BGT) en Overige Scheiding (IMGeo) aangepast n.a.v. [Geonovum
+werkafspraak](http://www.geonovum.nl/sites/default/files/20141212_BGT-werkafspraak-overige-scheiding.pdf)
+
+11-11-2015 [Toelichting relatieve
+hoogte](http://imgeo.geostandaarden.nl/def/imgeo-object/overbruggingsdeel/inwinningsregel-imgeo/toelichting-relatieve-hoogte) toegevoegd
+als onderdeel van de BGT inwinningsregels van Overbruggingsdeel
+
+26-11-2015 Licentievoorwaarden toegevoegd op home-pagina
+
+07-12-2015 Definities toegevoegd aan objecten
+
+04-05-2016 Teksten verwijderd m.b.t. daken van overkappingen
+
+09-08-2016 Kunststof toegevoegd als type gesloten verharding bij onbegroeid
+terreindeel
+
+Beheer en licentie
+
+*Geonovum ontwikkelt en beheert het digitale objectenhandboek BGT \| IMGeo in
+opdracht van het Ministerie van Infrastructuur en Milieu. Suggesties en (betere)
+foto’s zijn van harte welkom op *<imgeo@geonovum.nl>*.*
+
+*De inhoud van dit Objectenhandboek BGT\|IMGeo is beschikbaar onder de volgende
+licentie:*<http://creativecommons.org/licenses/by-nd/3.0/nl/>
+
+In het objectenhandboek versie 1.1. zijn aanvullingen en verbeteringen
+doorgevoerd ten opzichte van de vorige versie 1.0. Bij sommige complexere
+situaties is getracht om duidelijker beeldmateriaal in te voegen.
