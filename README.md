@@ -3,20 +3,20 @@ IMGeo objectenhandboek
 
 ![](media/225fb3ba09d381b3650114de9da62e9c.png)
 
--   Over het objectenhandboek
+-   [Over het objectenhandboek](#over-het-objectenhandboek)
 
--   Gebruik objectenhandboek
+-   [Gebruik objectenhandboek](#gebruik-objectenhandboek)
 
--   Toelichting bij de voorbeeld en
+-   [Toelichting bij de voorbeelden](#toelichting-bij-de-voorbeelden)
 
--   Uitgewerkt voorbeeld
+-   [Uitgewerkt voorbeeld](#uitgewerkt-voorbeeld)
 
--   Deze versie
+-   [Deze versie](#deze-versie)
 
 Over het objectenhandboek
 -------------------------
 
-Het objectenhandboek omvat een overzicht van
+Het objectenhandboek omvat
 
 -   de inwinregels en praktijkvoorbeelden van de verplichte inhoud van de
     Basisregistratie Grootschalige Topografie (BGT),
@@ -163,39 +163,18 @@ zijn.
 
 Deze versie
 -----------
+Het IMGeo objectenhandboek is een dynamisch document en wordt continue aangevuld met voorbeelden. Voor een overzicht van de wijzigingen zie:
+release notes.
 
-Hieronder
 
-22-01-14 Foto's toegevoegd en enkele kleine inhoudelijke aanpassingen sinds
-versie Gegevenscatalogi BGT 1.1.1 (juli 2013) en IMGeo 2.1.1 (juli 2013)
 
-13-02-14 Ondersteunend wegdeel gecorrigeerd en aangepast
 
-11-08-15 Scheiding (BGT) en Overige Scheiding (IMGeo) aangepast n.a.v. [Geonovum
-werkafspraak](http://www.geonovum.nl/sites/default/files/20141212_BGT-werkafspraak-overige-scheiding.pdf)
 
-11-11-2015 [Toelichting relatieve
-hoogte](http://imgeo.geostandaarden.nl/def/imgeo-object/overbruggingsdeel/inwinningsregel-imgeo/toelichting-relatieve-hoogte) toegevoegd
-als onderdeel van de BGT inwinningsregels van Overbruggingsdeel
 
-26-11-2015 Licentievoorwaarden toegevoegd op home-pagina
 
-07-12-2015 Definities toegevoegd aan objecten
 
-04-05-2016 Teksten verwijderd m.b.t. daken van overkappingen
 
-09-08-2016 Kunststof toegevoegd als type gesloten verharding bij onbegroeid
-terreindeel
 
-Beheer en licentie
 
-*Geonovum ontwikkelt en beheert het digitale objectenhandboek BGT \| IMGeo in
-opdracht van het Ministerie van Infrastructuur en Milieu. Suggesties en (betere)
-foto’s zijn van harte welkom op *<imgeo@geonovum.nl>*.*
 
-*De inhoud van dit Objectenhandboek BGT\|IMGeo is beschikbaar onder de volgende
-licentie:*<http://creativecommons.org/licenses/by-nd/3.0/nl/>
 
-In het objectenhandboek versie 1.1. zijn aanvullingen en verbeteringen
-doorgevoerd ten opzichte van de vorige versie 1.0. Bij sommige complexere
-situaties is getracht om duidelijker beeldmateriaal in te voegen.
