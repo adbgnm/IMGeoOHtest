@@ -1,13 +1,13 @@
 IMGeo objectenhandboek
 ======================
 
-![](media/2649c244ad58b590ed8fecf6d17ce107.png)
+![](media/225fb3ba09d381b3650114de9da62e9c.png)
 
 -   Over het objectenhandboek
 
 -   Gebruik objectenhandboek
 
--   Toelichting bij de voorbeelden
+-   Toelichting bij de voorbeeld en
 
 -   Uitgewerkt voorbeeld
 
