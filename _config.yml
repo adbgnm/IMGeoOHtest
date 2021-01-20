@@ -29,7 +29,15 @@ script: |
   document.getElementsByClassName('input-sm')[0].placeholder = "Zoeken in het objectenhandboek...";
   if (typeof document.getElementsByClassName('search-results') != "undefined") { document.getElementsByClassName('search-results')[0].getElementsByTagName('h2')[0].innerHTML = 'Zoekresultaten';};
   if (typeof document.getElementsByClassName('search-results') != "undefined") {document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML = document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML.replace('Search finished, found', 'Zoekopdracht voltooid,').replace('page(s) matching the search query', 'pagina (\'s) gevonden die overeenkomen met de zoekopdracht');};
-  
+  var logo = document.createElement("div"); 
+  var lgclass = document.createAttribute("id");      
+  lgclass.value = "logo";                 
+  logo.setAttributeNode(lgclass); 
+  var content = document.getElementsByClassName("content")[0]; 
+  content.insertBefore(logo, content.firstChild);   
+  var lgimg = 'https://docs.geostandaarden.nl/bro/gen/logo_minbzk.png';
+  document.getElementById("logo").innerHTML = '<img src="'+lgimg+'" width="100%" />';
+
 scss: |
   @import url('https://tools.geostandaarden.nl/respec/style/fonts/ro-fonts.css');   
   .sidebar{background: #fff;}
