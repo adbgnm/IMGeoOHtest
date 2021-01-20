@@ -16,7 +16,7 @@ IMGeo objectenhandboek
 Over het objectenhandboek
 -------------------------
 
-Het objectenhandboek omvat een overzicht van
+Het objectenhandboek omvat
 
 -   de inwinregels en praktijkvoorbeelden van de verplichte inhoud van de
     Basisregistratie Grootschalige Topografie (BGT),
