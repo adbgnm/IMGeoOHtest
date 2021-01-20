@@ -27,7 +27,7 @@ script: |
   var toclevel1 = document.getElementsByClassName('level-1');
   for (let tocitem of toclevel1) { tocitem.getElementsByTagName('a')[0].innerHTML = tocitem.getElementsByTagName('a')[0].innerHTML.split('. ')[1];}
   document.getElementsByClassName('input-sm')[0].placeholder = "Zoeken in het objectenhandboek...";
-  console.log(document.getElementsByClassName('search-results');
+  console.log(document.getElementsByClassName('search-results'));
   if (document.getElementsByClassName('search-results').length > 0 ) { document.getElementsByClassName('search-results')[0].getElementsByTagName('h2')[0].innerHTML = 'Zoekresultaten';};
   if (document.getElementsByClassName('search-results').length > 0) {document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML = document.getElementsByClassName('search-results')[0].getElementsByClassName('summary')[0].innerHTML.replace('Search finished, found', 'Zoekopdracht voltooid,').replace('page(s) matching the search query', 'pagina (\'s) gevonden die overeenkomen met de zoekopdracht');};
   var logo = document.createElement("div"); 
