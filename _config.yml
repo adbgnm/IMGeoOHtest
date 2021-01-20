@@ -37,7 +37,7 @@ script: |
   var content = document.getElementsByClassName("content")[0]; 
   content.insertBefore(logo, content.firstChild);   
   var lgimg = 'https://docs.geostandaarden.nl/bro/gen/logo_minbzk.png';
-  document.getElementById("logo").innerHTML = '<img src="'+lgimg+'" width="75%" title="Ministerie van BZK" />';
+  document.getElementById("logo").innerHTML = '<img src="'+lgimg+'" title="Ministerie van BZK" />';
 
 scss: |
   @import url('https://tools.geostandaarden.nl/respec/style/fonts/ro-fonts.css');   
@@ -54,3 +54,4 @@ scss: |
   .addons-wrap .status, addons {background:#007ea9;color:#000}
   .input-sm:before{content: " " }
   .header { display:none; }
+  #logo img { width: 75%; margin: auto; }
