@@ -38,6 +38,7 @@ script: |
   content.insertBefore(logo, content.firstChild);   
   var lgimg = 'https://docs.geostandaarden.nl/bro/gen/logo_minbzk.png';
   document.getElementById("logo").innerHTML = '<img src="'+lgimg+'" title="Ministerie van BZK" />';
+  document.getElementsByClassName('status')[0].getElementsByClassName('title')[0].getElementsByTagName('li')[0].innerHTML = 'Beheer en licentie';
 
 scss: |
   @import url('https://tools.geostandaarden.nl/respec/style/fonts/ro-fonts.css');   
